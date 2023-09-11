@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/computer-architecture/computer-architecture-01/","tags":["gardenEntry"]}
----
-
-oh no!
-[[Computer Processors/Untitled\|Untitled]]
