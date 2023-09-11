@@ -3,6 +3,6 @@
 ---
 
 
-- [[Compulsory Modules/Computer Processors/Hiya\|Hiya]]
+- [[Compulsory Modules/Computer Processors/Computer Processors\|Computer Processors]]
 
 
