@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leeds/computer-science/optional-modules/optional-modules/"}
+{"dg-publish":true,"permalink":"/leeds/computer-science/optional-modules/optional-modules/","tags":["Signpost"]}
 ---
 
 
