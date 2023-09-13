@@ -4,7 +4,6 @@
 
 
 - **[[Leeds/Computer Science/Compulsory Modules/Compulsory Modules\|Compulsory Modules]]**
-- [[Leeds/Computer Science/Computer Science\|Computer Science]]
 - **[[Leeds/Computer Science/Optional Modules/Optional Modules\|Optional Modules]]**
 
 
