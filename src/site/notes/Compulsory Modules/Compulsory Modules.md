@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compulsory-modules/compulsory-modules/","tags":["TODO"]}
+{"dg-publish":true,"permalink":"/compulsory-modules/compulsory-modules/"}
 ---
 
 
