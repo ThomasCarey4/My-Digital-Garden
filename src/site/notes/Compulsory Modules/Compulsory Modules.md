@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Compulsory Modules.md","permalink":"/compulsory-modules/"}
+{"dg-publish":true,"permalink":"/compulsory-modules/compulsory-modules/"}
 ---
 
 
+- [[Compulsory Modules/Compulsory Modules\|Compulsory Modules]]
 - **[[Compulsory Modules/Computer Architecture/Computer Architecture\|Computer Architecture]]**
 - **[[Compulsory Modules/Computer Processors/Computer Processors\|Computer Processors]]**
 - **[[Compulsory Modules/Databases/Databases\|Databases]]**
