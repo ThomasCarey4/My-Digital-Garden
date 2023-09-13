@@ -10,7 +10,8 @@ body {
     //  h1 {
     //   color: black;
     //  }
-    table {
-        width: 100%
+    table, th {
+        width: 100%;
+        text-align: left;
     }
 }
