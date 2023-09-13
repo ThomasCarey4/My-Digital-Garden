@@ -3,7 +3,6 @@
 ---
 
 
-- [[Leeds/Computer Science/Compulsory Modules/Compulsory Modules\|Compulsory Modules]]
 - **[[Leeds/Computer Science/Compulsory Modules/Computer Architecture/Computer Architecture\|Computer Architecture]]**
 - **[[Leeds/Computer Science/Compulsory Modules/Computer Processors/Computer Processors\|Computer Processors]]**
 - **[[Leeds/Computer Science/Compulsory Modules/Databases/Databases\|Databases]]**
