@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homer/","tags":["gardenEntry"],"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/homer/","tags":["gardenEntry"],"dgShowInlineTitle":false}
 ---
 
 Hiya, this be my website :)
