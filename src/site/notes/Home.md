@@ -8,7 +8,8 @@ Hiya, this be my website :)
 ### [[Optional Modules/Optional Modules\|Optional Modules]]
 
 # Tasks
-| File | Created |
-| ---- | ------- |
+| File                                                             | Created                      |
+| ---------------------------------------------------------------- | ---------------------------- |
+| [[Compulsory Modules/Compulsory Modules\|Compulsory Modules]] | 7:55 PM - September 11, 2023 |
 
 { .block-language-dataview}
