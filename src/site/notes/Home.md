@@ -3,9 +3,9 @@
 ---
 
 Hiya, this be my website :)
+[[Leeds/Leeds\|My University]]
+[[Leeds/Computer Science/Computer Science\|My Degree]]
 
-### [[Compulsory Modules/Compulsory Modules\|Compulsory Modules]]
-### [[Optional Modules/Optional Modules\|Optional Modules]]
 
 # Tasks
 | File | Created |
