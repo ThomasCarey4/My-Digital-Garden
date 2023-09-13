@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leeds/computer-science/compulsory-modules/compulsory-modules/"}
+{"dg-publish":true,"permalink":"/leeds/computer-science/compulsory-modules/compulsory-modules/","tags":["Signpost"]}
 ---
 
 
