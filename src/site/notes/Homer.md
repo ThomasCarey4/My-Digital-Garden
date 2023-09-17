@@ -3,7 +3,7 @@
 ---
 
 # Homer
-Hiya, this be my website :)
+Welcome :)
 [[Leeds/Leeds\|My University]]
 [[Leeds/Computer Science/Computer Science\|My Degree]]
 
