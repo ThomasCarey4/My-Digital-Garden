@@ -9,8 +9,7 @@ Welcome :)
 
 
 # Tasks
-| File                                                                                                                | Created                      |
-| ------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[Leeds/Computer Science/Compulsory Modules/Computer Architecture/Computer Architecture\|Computer Architecture]] | 7:56 PM - September 11, 2023 |
+| File | Created |
+| ---- | ------- |
 
 { .block-language-dataview}
