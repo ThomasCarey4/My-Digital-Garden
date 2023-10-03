@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homer/","tags":["gardenEntry"],"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/homer/","tags":["gardenEntry"]}
 ---
 
 # Homer
