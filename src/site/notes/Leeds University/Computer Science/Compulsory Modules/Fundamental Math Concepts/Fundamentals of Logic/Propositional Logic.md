@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/propositional-logic/"}
+{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/propositional-logic/","tags":["TODO"]}
 ---
 
 >[!Textbook Reference]
@@ -14,7 +14,7 @@ F > False
 - 'and' | $\land$ - Conjunction
 - 'or' | $\lor$  - Disjunction
 - 'if... then' | $\rightarrow$ - Implication \{$Hypothesis \rightarrow Conclusion$}
-- 'if and only if'
+- 'if and only if' | $\leftrightarrow$ - Biconditional (Its XAND)
 #### Implication
 | p | q | p $\rightarrow$ q |
 |:-:|:-:|:------:|
@@ -23,3 +23,16 @@ F > False
 | F | T | T |
 | F | F | T |
 **If the hypothesis is false, the conclusion is true**
+###### Converse
+- The converse of $p \rightarrow q$ is $q \rightarrow p$
+###### Contrapositive
+- The contrapositive of $p \rightarrow q$ is $\neg p \rightarrow \neg p$ 
+#### Biconditional
+| p | q | p $\leftrightarrow$ q |
+|:-:|:-:|:------:|
+| T | T | T | 
+| T | F | F |
+| F | T | F |
+| F | F | T |
+**If $Hypothesis = Conclusion$ then true**
+- Can be written as " p iff q " 
