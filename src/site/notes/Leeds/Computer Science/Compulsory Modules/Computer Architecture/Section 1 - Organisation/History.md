@@ -11,7 +11,7 @@ Completed in 1952, the IAS computer is the prototype for all subsequent general-
 - A Control Unit - interprets instruction in memory and executes them
 - Input and Output - operated by the control unit
 #### Design
-![Pasted image 20231006122943.png](/img/user/Pasted%20image%2020231006122943.png)
+![von Neumann Architecture.png](/img/user/von%20Neumann%20Architecture.png)
 
 
 ## The Bus
@@ -23,7 +23,7 @@ The DEC PDP-8 was the first minicomputer
 - Cost only ~\$16,000
 The DEC was the first commercial device to use a bus structure instead of switches
 #### The Structure
-![Pasted image 20231006123727.png](/img/user/Pasted%20image%2020231006123727.png)
+![DEC PDP-8 Bus Structure.png](/img/user/DEC%20PDP-8%20Bus%20Structure.png)
 
 
 ## *Gordon* Moore's Law
