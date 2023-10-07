@@ -3,7 +3,7 @@
 ---
 
 >[!Textbook Reference]
-> [Discrete Mathematics and Its Applications](https://leeds.primo.exlibrisgroup.com/permalink/44LEE_INST/13rlbcs/alma991019654648905181): 1.1
+> [Discrete Mathematics and Its Applications](https://leeds.primo.exlibrisgroup.com/permalink/44LEE_INST/13rlbcs/alma991019654648905181) - 1.1
 
 A proposition is a declarative statement - objectively true or false, not both.
 Variables in propositional logic must be constant - e.g. cannot use time or place.
@@ -22,7 +22,6 @@ F > False
 | T | F | F |
 | F | T | T |
 | F | F | T |
-**If the hypothesis is false, the conclusion is true**
 ###### Converse
 - The converse of $p \rightarrow q$ is $q \rightarrow p$
 ###### Contrapositive
