@@ -35,7 +35,7 @@ Organisation: how the architecture is implemented - hardware??
 The computer is constructed of:
 - Central Processing Unit
 - Main Memory
-- and Input/Output
+- and Input/Output ports
 This is all interfaced via a "Systems Interconnection"
 #### CPU
 The CPU is constructed of:
@@ -46,7 +46,7 @@ This is all interfaced via the "Internal CPU Interconnection"
 ##### Control Unit
 The Control Unit is composed of:
 - Sequencing Logic
-- Control Memory
+- and Control Memory
 Interfaced together through the "Control Unit Registers and Decoders"
 
 ## Summary
