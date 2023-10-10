@@ -16,6 +16,8 @@ F > False
 - 'if... then' | $\rightarrow$ - Implication \{$Hypothesis \rightarrow Conclusion$}
 - 'if and only if' | $\leftrightarrow$ - Biconditional (Its XAND)
 #### Implication
+$Hypothesis$ can only be true if the $conclusion$ is true, but there is ***no*** guarantee
+
 | p | q | p $\rightarrow$ q |
 |:-:|:-:|:------:|
 | T | T | T | 
@@ -35,3 +37,22 @@ F > False
 | F | F | T |
 **If $Hypothesis = Conclusion$ then true**
 - Can be written as " p iff q " 
+
+
+### Syntax Trees
+
+An illustrated view of the structure of a formula
+
+**Example tree:** $( p \lor q) \land (\neg p \rightarrow r)$
+#TODO
+### More Definitions
+
+- **Truth Assignment** - Basically just a a row in a truth table
+- **Tautology** - A formula that is true under every truth assignment
+- **Contradiction** - A formula that is false under every truth assignment
+- **Contingency** - Any other formula (Neither a **tautology** or **contradiction**)
+
+### Logical Equivalence
+*Formulas that have the same truth value under all possible truth assignments
+are logically equivalent*
+$p \equiv q$ 
