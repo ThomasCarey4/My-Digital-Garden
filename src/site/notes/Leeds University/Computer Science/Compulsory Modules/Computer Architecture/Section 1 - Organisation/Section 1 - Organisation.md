@@ -53,4 +53,4 @@ Interfaced together through the "Control Unit Registers and Decoders"
 - Some parts of the computer are visible to the programmer, some are not
 - The majority of today's computers are based on the [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 1 - Organisation/History#Von Neumann Machine\|von Neumann Machine]]
 - Architectures are getting more sophisticated in order to increase computing power
-- There is inevitably a trade-off between performance and cost
+- There is inevitably a trade-off between [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 1 - Organisation/History#Performance\|performance]] and cost
