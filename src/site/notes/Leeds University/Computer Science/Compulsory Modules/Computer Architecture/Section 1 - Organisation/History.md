@@ -40,7 +40,7 @@ The DEC was the first commercial device to use a bus structure instead of switch
 - Processor speed is increasing
 - Memory Capacity is increasing
 - Memory speed **lags behind** processor speed
-#### Performance Measures
+##### Performance Measures
 - Various measures are used to assess performance - e.g. memory bandwidth, MIPS. MFLOPS
 - The maximum possible will be the value advertised
 - Speed often competes with size (or memory) and both must be balanced against cost
