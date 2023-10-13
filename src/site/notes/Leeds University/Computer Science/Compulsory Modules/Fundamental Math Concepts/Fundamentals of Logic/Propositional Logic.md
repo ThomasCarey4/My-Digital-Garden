@@ -28,6 +28,7 @@ $Hypothesis$ can only be true if the $conclusion$ is true, but there is ***no***
 - The converse of $p \rightarrow q$ is $q \rightarrow p$
 ###### Contrapositive
 - The contrapositive of $p \rightarrow q$ is $\neg p \rightarrow \neg p$ 
+Can be shown as $( \neg p \lor q )$
 #### Biconditional
 | p | q | p $\leftrightarrow$ q |
 |:-:|:-:|:------:|
