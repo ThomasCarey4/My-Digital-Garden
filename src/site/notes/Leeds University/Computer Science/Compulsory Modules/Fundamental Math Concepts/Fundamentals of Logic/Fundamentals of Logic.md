@@ -8,5 +8,5 @@
 - Protocols
 
 ## Types of Logic
-[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic\|Propositional Logic]]
+[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic\|Propositional Logic]]
 [[Predicate Logic\|Predicate Logic]]
