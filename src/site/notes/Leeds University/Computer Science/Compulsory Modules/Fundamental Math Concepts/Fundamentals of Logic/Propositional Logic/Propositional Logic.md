@@ -10,37 +10,13 @@ Variables in propositional logic must be constant - e.g. cannot use time or plac
 T > True
 F > False
 ### Connectives
-- 'not' | $\neg$  - Negation
-- 'and' | $\land$ - Conjunction
-- 'or' | $\lor$  - Disjunction
-- 'if... then' | $\rightarrow$ - Implication \{$Hypothesis \rightarrow Conclusion$}
-- 'if and only if' | $\leftrightarrow$ - Biconditional (Its XAND)
-#### Implication
-$Hypothesis$ can only be true if the $conclusion$ is true, but there is ***no*** guarantee
-
-| p | q | p $\rightarrow$ q |
-|:-:|:-:|:------:|
-| T | T | T | 
-| T | F | F |
-| F | T | T |
-| F | F | T |
-###### Converse
-- The converse of $p \rightarrow q$ is $q \rightarrow p$
-###### Contrapositive
-- The contrapositive of $p \rightarrow q$ is $\neg p \rightarrow \neg p$ 
-Can be shown as $( \neg p \lor q )$
-#### Biconditional
-| p | q | p $\leftrightarrow$ q |
-|:-:|:-:|:------:|
-| T | T | T | 
-| T | F | F |
-| F | T | F |
-| F | F | T |
-**If $Hypothesis = Conclusion$ then true**
-- Can be written as " p iff q " 
+- 'not' | $\neg$  - [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Negation\|Negation]]
+- 'and' | $\land$ - [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Conjunction\|Conjunction]]
+- 'or' | $\lor$  - [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|Disjunction]]
+- 'if... then' | $\rightarrow$ - [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Implication\|Implication]] \{$Hypothesis \rightarrow Conclusion$}
+- 'if and only if' | $\leftrightarrow$ - [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Biconditional\|Biconditional]] (Its XAND)
 
 ### Syntax Trees
-
 An illustrated view of the structure of a formula
 
 **Example tree:** $( p \lor q) \land (\neg p \rightarrow r)$
@@ -48,17 +24,24 @@ An illustrated view of the structure of a formula
 ### More Definitions
 
 - **Truth Assignment** - Basically just a a row in a truth table
-- **Tautology** - A formula that is true under every truth assignment
-- **Contradiction** - A formula that is false under every truth assignment
-- **Contingency** - Any other formula (Neither a **tautology** or **contradiction**)
+{ #Truth-Assignment}
 
-### Logical Equivalence
+- **Tautology** - A formula that is true under every truth assignment
+{ #Tautology}
+
+- **Contradiction** - A formula that is false under every truth assignment
+{ #Contradiction}
+
+- **Contingency** - Any other formula (Neither a **tautology** or **contradiction**)
+{ #Contingency}
+
+
+### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Logical Equivalence\|Logical Equivalence]]
 *Formulas that have the same truth value under all possible truth assignments are logically equivalent*
 $p \equiv q$ 
-[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Laws#Equivalences using Biconditional Statements\|Equivalences using Biconditional Statements]]
 
 ##### Satisfiable
-A formula is called **satisfiable**, if it has truth assignment that makes it true.
+A formula is called **satisfiable**, if it has [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic#^Truth-Assignment\|truth assignment]] that makes it true.
 
 A formula that is not satisfiable is called **unsatisfiable**.
 
