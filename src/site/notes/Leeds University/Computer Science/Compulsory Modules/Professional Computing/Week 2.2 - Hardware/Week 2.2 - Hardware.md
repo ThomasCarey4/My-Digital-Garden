@@ -4,4 +4,4 @@
 
 Modern Computer Systems are often described in terms of three technical elements - Hardware, Software and Networks, and two human elements - People and Process
 
-[[Early Computing\|Early Computing]]
+[[Leeds University/Computer Science/Compulsory Modules/Professional Computing/Week 2.2 - Hardware/Early Computing\|Early Computing]]
