@@ -4,3 +4,4 @@
 
 [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/Week 2.1 - Age of Computing/Week 2.1 - Age of Computing\|Week 2.1 - Age of Computing]]
 [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/Week 2.2 - Hardware/Week 2.2 - Hardware\|Week 2.2 - Hardware]]
+[[Leeds University/Computer Science/Compulsory Modules/Professional Computing/Week 3.1 - Networks and Software/Week 3.1 - Networks and Software\|Week 3.1 - Networks and Software]]
