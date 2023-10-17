@@ -20,7 +20,7 @@ F > False
 An illustrated view of the structure of a formula
 
 **Example tree:** $( p \lor q) \land (\neg p \rightarrow r)$
-![Syntax Tree.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Fundamental%20Math%20Concepts/Fundamentals%20of%20Logic/Syntax%20Tree.png)
+![Syntax Tree.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Fundamental%20Math%20Concepts/Fundamentals%20of%20Logic/Propositional%20Logic/Syntax%20Tree.png)
 ### More Definitions
 
 - **Truth Assignment** - Basically just a a row in a truth table
