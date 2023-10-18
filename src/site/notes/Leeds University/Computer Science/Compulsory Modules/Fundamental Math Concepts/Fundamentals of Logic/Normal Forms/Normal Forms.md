@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/normal-forms/normal-forms/"}
 ---
 
-***Normal Forms are used to find the formula from Boolean Algebra from the result***
+***Normal Forms are used to find the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] from Boolean Algebra from the result***
 ##### The two types of Normal Forms:
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/normal-forms/disjunctive-normal-form/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -43,9 +43,9 @@ The sub-[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math 
 We let $\mathbb{N}$ denote the set of all natural numbers including 0
 We let $\mathbb{N}_{>0}$ denote the set of all natural numbers excluding 0
 
-We use **'formula'** to mean *'proposition or compound proposition'*
+We use **'[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]]'** to mean *'proposition or compound proposition'*
 
-For an $n \in \mathbb{N}_{>0}\ {}$, let $p1,p2,p3,...,p_n$ be $n$ formulas. Then we define:
+For an $n \in \mathbb{N}_{>0}\ {}$, let $p1,p2,p3,...,p_n$ be $n$ [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formulas]]. Then we define:
 $$
 \begin{align*}
 &\color{red} \bigwedge^{n}_{i=1} p_{i} \color{white}
@@ -55,6 +55,6 @@ $$
 \end{align*}
 $$
 
-For every propositional formula $p$ there is a formula $p_D$ in [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Normal Forms/Disjunctive Normal Form\|DNF]] and a formula $p_C$ in [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Normal Forms/Conjunctive Normal Form\|CNF]], such that $p\equiv p_{D}$ and $p\equiv p_{C}$ 
+For every propositional [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] $p$ there is a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] $p_D$ in [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Normal Forms/Disjunctive Normal Form\|DNF]] and a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] $p_C$ in [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Normal Forms/Conjunctive Normal Form\|CNF]], such that $p\equiv p_{D}$ and $p\equiv p_{C}$ 
 
 In other words: <span style="color:#ff0000">Every formula is equivalent to a formula in DNF and to a formula in CNF</span>
