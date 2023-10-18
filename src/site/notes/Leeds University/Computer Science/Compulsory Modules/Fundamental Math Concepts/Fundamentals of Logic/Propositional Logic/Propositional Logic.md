@@ -17,33 +17,50 @@ F > False
 - 'if and only if' | $\leftrightarrow$ - [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Biconditional\|Biconditional]] (Its XAND)
 
 ### Syntax Trees
-An illustrated view of the structure of a formula
+An illustrated view of the structure of a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]]
 
 **Example tree:** $( p \lor q) \land (\neg p \rightarrow r)$
 ![Syntax Tree.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Fundamental%20Math%20Concepts/Fundamentals%20of%20Logic/Propositional%20Logic/Syntax%20Tree.png)
 ### More Definitions
 
-- **Truth Assignment** - Basically just a a row in a truth table
-{ #Truth-Assignment}
 
-- **Tautology** - A formula that is true under every truth assignment
-{ #Tautology}
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/definitions/truth-assignment/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-- **Contradiction** - A formula that is false under every truth assignment
+
+
+
+A truth assignment is a possible outcome of a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]], and the variables necessary for said outcome.
+- A common example is a row in a truth table
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/definitions/truth-assignment/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+A truth assignment is a possible outcome of a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]], and the variables necessary for said outcome.
+- A common example is a row in a truth table
+
+
+</div></div>
+
+- **Contradiction** - A [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] that is false under every truth assignment
 { #Contradiction}
 
-- **Contingency** - Any other formula (Neither a **tautology** or **contradiction**)
+- **Contingency** - Any other [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] (Neither a **tautology** or **contradiction**)
 { #Contingency}
 
 
 ### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Logical Equivalence\|Logical Equivalence]]
-*Formulas that have the same truth value under all possible truth assignments are logically equivalent*
+*[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|Formulas]] that have the same truth value under all possible truth assignments are logically equivalent*
 $p \equiv q$ 
 
 ##### Satisfiable
-A formula is called **satisfiable**, if it has [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic#^Truth-Assignment\|truth assignment]] that makes it true.
+A [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] is called **satisfiable**, if it has [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic#^Truth-Assignment\|truth assignment]] that makes it true.
 
-A formula that is not satisfiable is called **unsatisfiable**.
+A [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] that is not satisfiable is called **unsatisfiable**.
 
-A truth assignment that makes a formula true is called a **satisfying assignment** - for that formula
-
+A truth assignment that makes a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] true is called a **satisfying assignment** - for that [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]]
