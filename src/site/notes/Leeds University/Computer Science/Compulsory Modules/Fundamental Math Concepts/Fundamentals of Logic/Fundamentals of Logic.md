@@ -11,6 +11,7 @@
 [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic\|Propositional Logic]]
 [[Predicate Logic\|Predicate Logic]]
 ### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Logical Laws\|Logical Laws]]
+### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Normal Forms/Normal Forms\|Normal Forms]]
 
 ### Definitions
 
