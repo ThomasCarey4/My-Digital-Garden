@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/definitions/literal/"}
+{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/definitions/literal/","tags":["Definition"]}
 ---
 
 A literal is a formula of the form $\color{red}p$ or $\color{red}\neg{p}$, where $\color{red}p$ is a propositional variable.
