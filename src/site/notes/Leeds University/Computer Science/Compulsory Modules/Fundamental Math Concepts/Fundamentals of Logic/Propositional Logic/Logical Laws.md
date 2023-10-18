@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/propositional-logic/logical-laws/","tags":["TODO"]}
+{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/propositional-logic/logical-laws/"}
 ---
 
 ##### Idempotent Law
