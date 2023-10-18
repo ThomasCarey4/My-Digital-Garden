@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/propositional-logic/connectives/biconditional/"}
+{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/propositional-logic/connectives/biconditional/","tags":["Definition"]}
 ---
 
 'if and only if' | $\leftrightarrow$ - Biconditional (Its XAND)
