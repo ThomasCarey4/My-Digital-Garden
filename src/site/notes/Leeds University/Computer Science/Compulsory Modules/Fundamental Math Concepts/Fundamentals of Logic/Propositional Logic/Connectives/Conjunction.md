@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/propositional-logic/connectives/conjunction/"}
+{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/propositional-logic/connectives/conjunction/","tags":["Definition"]}
 ---
 
 'and' | $\land$ - Conjunction
