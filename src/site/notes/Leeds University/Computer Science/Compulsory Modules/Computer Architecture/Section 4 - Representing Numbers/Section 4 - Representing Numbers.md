@@ -3,3 +3,4 @@
 ---
 
 [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 4 - Representing Numbers/Signed Integer Representation/Signed Integer Representation\|Signed Integer Representation]]
+[[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 4 - Representing Numbers/Scientific Representation/Scientific Representation\|Scientific Representation]]
