@@ -10,7 +10,7 @@
 
 
 
-A propositional [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] is in <span style="color:#ff0000">Disjunctive Normal Form (DNF)</span>, if it is a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|Disjunction]] of [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Conjunction\|Conjunctions]] of [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Literal\|literals]], i.e. if it is of the form
+A [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic\|propositional]] [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] is in <span style="color:#ff0000">Disjunctive Normal Form (DNF)</span>, if it is a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|Disjunction]] of [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Conjunction\|Conjunctions]] of [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Literal\|literals]], i.e. if it is of the form
 $
 \bigvee^{n}_{i=1}(\bigwedge^{m_i}_{j=1}\ell_{i,j})
 $
@@ -27,7 +27,7 @@ The sub-[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math 
 
 
 
-A propositional [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] is in <span style="color:#ff0000">Conjunctive Normal Form (DNF)</span>, if it is a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Conjunction\|Conjunction]] of [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|Disjunctions]] of [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Literal\|literals]], i.e. if it is of the form
+A [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic\|propositional]] [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] is in <span style="color:#ff0000">Conjunctive Normal Form (DNF)</span>, if it is a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Conjunction\|Conjunction]] of [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|Disjunctions]] of [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Literal\|literals]], i.e. if it is of the form
 $
 \bigwedge^{n}_{i=1}(\bigvee^{m_i}_{j=1}\ell_{i,j})
 $
@@ -57,4 +57,4 @@ $$
 
 For every propositional [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] $p$ there is a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] $p_D$ in [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Normal Forms/Disjunctive Normal Form\|DNF]] and a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] $p_C$ in [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Normal Forms/Conjunctive Normal Form\|CNF]], such that $p\equiv p_{D}$ and $p\equiv p_{C}$ 
 
-In other words: <span style="color:#ff0000">Every formula is equivalent to a formula in DNF and to a formula in CNF</span>
+In other words: <span style="color:#ff0000">Every formula is equivalent to a formula in DNF and to a formula in [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Normal Forms/Conjunctive Normal Form\|CNF]]</span>
