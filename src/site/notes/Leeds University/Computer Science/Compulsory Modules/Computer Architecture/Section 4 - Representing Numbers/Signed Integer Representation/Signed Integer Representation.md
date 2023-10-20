@@ -26,7 +26,7 @@
 
 
 
-Basically, the MSB ( Left Most Bit ) is negative
+Basically, the [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 4 - Representing Numbers/Definitions/Most Significant Bit\|MSB]] is negative
 For example,
 $
 \begin{align}
