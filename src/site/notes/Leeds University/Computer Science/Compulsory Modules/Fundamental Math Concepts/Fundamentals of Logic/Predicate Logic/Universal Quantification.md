@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/predicate-logic/universal-quantification/"}
 ---
 
-
 $$
 \color{red}'P(x)\ for\ all\ values\ of\ x\ in\ the\ domain\ of\ x'
 $$
@@ -12,7 +11,7 @@ $$
 - The domain of x is a $\color{lightgreen}set$. We have to specify the domain of x
 An element of which $P(x)$ is false is called a **[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Sets#Counterexamples\|counterexample]]** to $\forall x\ P(x)$
 
->Note that if the domain is empty, then $\forall x\ P(x)$ is true for every propositional function $P(x)$ because there are no elements $x$ in the domain for which $P(x)$ is false.
+>Note that if the domain is empty, then $\forall x\ P(x)$ is true for every [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic\|propositional]] function $P(x)$ because there are no elements $x$ in the domain for which $P(x)$ is false.
 
 ### Counterexamples
 When is a statement $\color{red}\forall x\ P(x)$ false?
