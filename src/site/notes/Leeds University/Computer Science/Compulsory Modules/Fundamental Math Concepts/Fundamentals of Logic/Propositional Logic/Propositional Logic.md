@@ -67,7 +67,7 @@ A [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concep
 
 
 ### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Logical Equivalence\|Logical Equivalence]]
-*[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|Formulas]] that have the same truth value under all possible [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Truth Assignment\|Truth Assignments]] are logically equivalent*
+*[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|Formulas]] that have the same [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Truth Value\|truth value]] under all possible [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Truth Assignment\|Truth Assignments]] are logically equivalent*
 $p \equiv q$ 
 
 ##### Satisfiable
