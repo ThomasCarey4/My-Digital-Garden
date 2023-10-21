@@ -21,4 +21,3 @@ $$
 - <span style="color:#ff0000">All elements in a set are distinct.</span>
 - <span style="color:#ff0000">The elements of a set do not come with a fixed ordering.</span>
 - <span style="color:#ff0000">The same set can be described in different ways.</span>
-[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Universal Quantification\|Universal Quantification]]
