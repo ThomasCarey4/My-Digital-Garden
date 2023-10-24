@@ -69,4 +69,4 @@ However, unlike Apple, MyFitnessPal does not have its own official fitness track
 MyFitnessPal also allows you to record gym information such as reps and sets for different workouts, recording your improvements over time.
 If you don't have a fitness tracker, the app will use its algorithms to calculate how many calories you burned, and can show this relative to your calorie input
 
-## <span style="color:#2519d2">MyFitnessPal</span> - Fitness and Nutrition
+## <span style="color:#2519d2">MyFitnessPal</span> - Food and Nutrition
