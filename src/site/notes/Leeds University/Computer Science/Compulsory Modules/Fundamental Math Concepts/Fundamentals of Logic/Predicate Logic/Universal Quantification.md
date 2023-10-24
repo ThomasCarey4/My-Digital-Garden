@@ -29,4 +29,4 @@ $$
 $$
 because this [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Conjunction\|conjunction]] is true [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Biconditional\|if and only if]] all $\color{red}P(x_{1})\color{white},\color{red}P(x_{2})\color{white},\ ...\ ,\color{red}P(x_{n})$
 are true
-#TODO you got more to do silly little man
+- If the domain is empty, the universal quantifier is true
