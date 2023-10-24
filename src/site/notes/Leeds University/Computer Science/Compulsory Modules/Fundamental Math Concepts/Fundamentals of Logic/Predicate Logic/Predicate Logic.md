@@ -80,7 +80,32 @@ $
 
 </div></div>
 
- ### Quantification
- [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Universal Quantification\|Universal Quantification]]
- [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Existential Quantification\|Existential Quantification]]
- 
+### Quantification
+| Type | Statement | When True? | When False? |
+| :-- | :-- | :-- | :-- |
+| [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Universal Quantification\|Universal]] | $\forall x\ P(x)$ | $P(x)$ is true for every $x$ | There is an $x$ for which $P(x)$ is false |
+| [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Existential Quantification\|Existential]] | $\exists x\ P(x)$ | There is an $x$ for which $P(x)$ is true | $P(x)$ is false for every $x$ |
+#### Precedence
+The quantifiers $\forall$ and $\exists$ have higher precedence than all logical operators from [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic\|propositional logic]]
+
+For example, $\forall x\ P(x) \lor Q(x)$ is the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|disjunction]] of $\forall x\ P(x)$ **and** $Q(x)$
+In other words, it means $\textcolor{red}{(}\forall x\ P(x)\textcolor{red}{)} \lor Q(x)$
+
+### Free and Bound Variables
+When a quantifier is used on the variable $x$, we say that this occurence of the variable is $\color{red}\textrm{bound}$
+
+An occurrence of a variable that is not bound by a quantifier or set equal to a particular value is said to be $\color{red} \textrm{free}$
+
+If all the variable that occur in a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Predicate Logic#Predicate and Propositional Logic Propositional Functions\|predicate function]] are $\color{red} \textrm{bound}$, then that is called a $\color{red} \textrm{sentence}$ of predicate logic
+{ #Sentence}
+
+
+This can be done using a combination of universal quantifiers, existential quantifiers, and value assignments
+
+The part of a logical expression to which a quantifier is applied is called the $\color{red} \textrm{scope}$ of this quantifier. Consequently, a variable is free if it is outside the scope of all quantifiers in the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] that specify this variable
+
+#### For Example
+1. $\exists x\ (P(x) \land Q(x)) \lor \forall x\ R(x)$
+	- The variable x is bound. It occurs within the ***scope*** of $\exists$ in the first part of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|disjunction]], and within in the scope of $\forall$ in the second part
+2. $\forall x\ (P(y) \land Q(x)) \lor \forall y\ R(y)$
+	- The variable $x$ is bound. It occurs within the scope of $\exists$ in the first part of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|disjunction]]. The variable $y$ occurs both as free ( In the first part ) and as bound ( Within the scope of $\forall$ in the second part )
