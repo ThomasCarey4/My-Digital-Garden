@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/professional-computing/cw-1-group-project/functional-and-non-functional-requirements/"}
 ---
 
-## <span style="color:#ff0000">Apple</span> - Excercise
+## <span style="color:#ff0000">Apple</span> - Exercise
 Practically requires a fitness tracker, can do some stuff without or with extra difficulty - Is all based around the Apple Fitness app which syncs with Apple Health
 ![Apple Watch Activity.png|300](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Professional%20Computing/CW1%20-%20Group%20Project/Images/Apple%20Watch%20Activity.png)
 $\color{red} \circledcirc$ - Shows active calories
@@ -25,7 +25,6 @@ You can also view more general information such as yearly data about different s
 - Downhill snow sports distance
 ### Reminders
 Help you keep track of your goals
-
 ## <span style="color:#ff0000">Apple</span> - Food and Nutrition
 Has a nutrition section but it isn't very good, requires exact information to be inputted ( i.e. the milligrams of sodium in a drink )
 
@@ -36,7 +35,6 @@ such as:
 Which both massive food databases to allow for quick and easy entry of nutritional information
 
 Apple health then displays this information with a breakdown of your macronutrients and micronutrients for the day, month and year
-
 ## <span style="color:#ff0000">Apple</span> - Weight Loss
 Apples Health's weight loss section is pretty simplistic. Simply weigh yourself regularly and enter the data in, the app will compile this data and show you trends and changes over days, months or years
 
@@ -64,4 +62,11 @@ Allows critical information to be accessed from the home screen ( on an iPhone )
 ## <span style="color:#ff0000">Apple</span> - Export
 Can export your data to a variety of services ( Email, Notes, Google Drive ) for sharing with health professionals.
 
-## <span style="color:#2519d2">MyFitnessPal</span> - Activity
+## <span style="color:#2519d2">MyFitnessPal</span> - Exercise
+Similar to Apple Health, MyFitnessPal requires syncing with a fitness tracker to show its full potential
+However, unlike Apple, MyFitnessPal does not have its own official fitness tracker like the Apple Watch. Instead it has partnered with many different companies to allow for easy integration
+
+MyFitnessPal also allows you to record gym information such as reps and sets for different workouts, recording your improvements over time.
+If you don't have a fitness tracker, the app will use its algorithms to calculate how many calories you burned, and can show this relative to your calorie input
+
+## <span style="color:#2519d2">MyFitnessPal</span> - Fitness and Nutrition
