@@ -31,6 +31,7 @@ Organisation: how the architecture is implemented - hardware??
 - Control
 
 ### Structural View
+#TODO Link with [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 5 - The Instruction Cycle/Section 5 - The Instruction Cycle\|Section 5 - The Instruction Cycle]]
 #### Top Level
 The computer is constructed of:
 - Central Processing Unit
