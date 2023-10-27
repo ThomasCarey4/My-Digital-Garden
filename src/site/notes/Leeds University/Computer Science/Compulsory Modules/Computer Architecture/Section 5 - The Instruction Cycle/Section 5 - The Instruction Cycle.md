@@ -13,12 +13,12 @@
 	- e.g. $ADD, MOVE$
 - A hardware segment accepts the code, interprets it, and issues the corresponding control signals
 ### Fetch Cycle
-- The ***Program Counter*** ( $PC$ ) Holds the address of the next instruction to fetch
-- The processor fetches the instruction from the memory location pointed to by the $PC$
-- The $PC$ is incremented ( unless told otherwise )
-- The instruction is loaded into the ***instruction register*** ( $IR$ )
+- The ***Program Counter*** ( *PC* ) Holds the address of the next instruction to fetch
+- The processor fetches the instruction from the memory location pointed to by the *PC*
+- The *PC* is incremented ( unless told otherwise )
+- The instruction is loaded into the ***instruction register*** ( *IR* )
 - The processor interprets the instruction and, using the 
-  ***accumulator*** ( $AC$ ), performs the required actions
+  ***accumulator*** ( *AC* ), performs the required actions
 ### Execute Cycle
 - ***Processor $\Longleftrightarrow$ Memory
 	- Data transfer between the CPU and main memory
@@ -32,7 +32,7 @@
 
 Combinations of the 4 are also possible
 ### Program Execution
-- The program is started by providing the $PC$ with a memory address
+- The program is started by providing the *PC* with a memory address
 - The contents of this address are interpreted as an instruction
 	- The [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 4 - Representing Numbers/Definitions/Most Significant Bit\|most significant bits]] provide the ***opcode***
 	- The remaining bits give a ***memory address***
