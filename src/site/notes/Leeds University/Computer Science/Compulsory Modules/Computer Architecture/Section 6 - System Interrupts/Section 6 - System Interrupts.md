@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/computer-architecture/section-6-system-interrupts/section-6-system-interrupts/","tags":["TODO"]}
+{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/computer-architecture/section-6-system-interrupts/section-6-system-interrupts/"}
 ---
 
 Computers provide a mechanism by which other modules may interrupt the normal processing sequence
@@ -45,4 +45,4 @@ As part of the instruction cycle the processor checks for an interrupt signal
 ### Summary
 - Software allows a computer to execute different instructions without reconfiguring the hardware
 - The meaning of the contents of word of memory is defined by the context in which it is used
-- It paus to set slow external processes to run concurrently but to keep interrupts to check their status
+- It pays to set slow external processes to run concurrently but to keep interrupts to check their status
