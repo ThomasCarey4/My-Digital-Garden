@@ -7,4 +7,7 @@
 - [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 3 - Number Systems/Section 3 - Number Systems\|Section 3 - Number Systems]]
 - [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 4 - Representing Numbers/Section 4 - Representing Numbers\|Section 4 - Representing Numbers]]
 - [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 5 - The Instruction Cycle/Section 5 - The Instruction Cycle\|Section 5 - The Instruction Cycle]]
-- [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 6 - Instruction Interrupts/Section 6 - Instruction Interrupts\|Section 6 - Instruction Interrupts]]
+- [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 6 - System Interrupts/Section 6 - System Interrupts\|Section 6 - System Interrupts]]
+- Ss
+- [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 8 - CPU Structure and Pipelining/Section 8 - CPU Structure and Pipelining\|Section 8 - CPU Structure and Pipelining]]
+- 
