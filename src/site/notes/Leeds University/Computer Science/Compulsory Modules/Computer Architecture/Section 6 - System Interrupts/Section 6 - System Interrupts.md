@@ -30,18 +30,18 @@ As part of the instruction cycle the processor checks for an interrupt signal
 	- Set the *PC* to the start address of the **interrupt handler** routine and process the interrupt,
 	- Restore the previous state and continue the interrupted program
 ### Augmented Instruction Cycle
-![Augmented Instruction Cycle 1.png|undefined](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%206%20-%20System%20Interrupts/Augmented%20Instruction%20Cycle%201.png)
-![Augmented Instruction Cycle 2.png|undefined](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%206%20-%20System%20Interrupts/Augmented%20Instruction%20Cycle%202.png)
+![Augmented Instruction Cycle 1.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%206%20-%20System%20Interrupts/Augmented%20Instruction%20Cycle%201.png)
+![Augmented Instruction Cycle 2.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%206%20-%20System%20Interrupts/Augmented%20Instruction%20Cycle%202.png)
 ### Multiple Interrupts
 ###### Approach 1: Disabled interrupts ( sequential )
 - The processor ignores further interrupts whilst processing one interrupt
 - Ignored interrupts remain pending and are checked after the first interrupts has been processed
 - Interrupts are handled in the sequence as they occur
-![Sequential Interrupts.png|undefined](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%206%20-%20System%20Interrupts/Sequential%20Interrupts.png)
+![Sequential Interrupts.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%206%20-%20System%20Interrupts/Sequential%20Interrupts.png)
 ###### Approach 2: Define Priorities ( nested )
 - Low priority interrupts can be interrupted by higher priority interrupts
 - When the higher priority interrupt has been processed the processor returns to the previous interrupt
-![Nested Interrupts.png|undefined](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%206%20-%20System%20Interrupts/Nested%20Interrupts.png)
+![Nested Interrupts.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%206%20-%20System%20Interrupts/Nested%20Interrupts.png)
 ### Summary
 - Software allows a computer to execute different instructions without reconfiguring the hardware
 - The meaning of the contents of word of memory is defined by the context in which it is used
