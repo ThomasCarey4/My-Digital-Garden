@@ -18,7 +18,7 @@
 - Home Network systems
 - Inventory Control systems
 #### Example Image
-![Systems Key Terms.png|undefined](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%202%20-%20Systems%20Concepts%20and%20Systems%20Architecture/Systems%20Key%20Terms.png)
+![Systems Key Terms.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%202%20-%20Systems%20Concepts%20and%20Systems%20Architecture/Systems%20Key%20Terms.png)
 ### System Decomposition
 ##### Components
 - May be *Irreducible*
