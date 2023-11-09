@@ -35,7 +35,7 @@ J <--> I
 
 
 
-![Timeline of the Internet.png|undefined](/img/user/Timeline%20of%20the%20Internet.png)
+![Timeline of the Internet.png](/img/user/Timeline%20of%20the%20Internet.png)
 uh, yeah!
 
 </div></div>
