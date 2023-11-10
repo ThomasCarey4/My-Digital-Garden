@@ -44,5 +44,5 @@ As part of the instruction cycle the processor checks for an interrupt signal
 ![Nested Interrupts.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%206%20-%20System%20Interrupts/Nested%20Interrupts.png)
 ### Summary
 - Software allows a computer to execute different instructions without reconfiguring the hardware
-- The meaning of the contents of word of memory is defined by the context in which it is used
+- The meaning of the contents of [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Machine Word\|Machine Word]] of memory is defined by the context in which it is used
 - It pays to set slow external processes to run concurrently but to keep interrupts to check their status
