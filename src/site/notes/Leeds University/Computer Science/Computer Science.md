@@ -4,3 +4,5 @@
 
 - **[[Leeds University/Computer Science/Compulsory Modules/Compulsory Modules\|Compulsory Modules]]**
 - **[[Leeds University/Computer Science/Optional Modules/Optional Modules\|Optional Modules]]**
+{ #6206f7}
+
