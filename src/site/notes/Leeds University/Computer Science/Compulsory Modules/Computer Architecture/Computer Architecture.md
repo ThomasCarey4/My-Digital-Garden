@@ -11,4 +11,4 @@
 - 
 - [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 8 - CPU Structure and Pipelining/Section 8 - CPU Structure and Pipelining\|Section 8 - CPU Structure and Pipelining]]
 - [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Section 9 - Memory\|Section 9 - Memory]]
-- 
+- [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 10 - Cache Memory/Section 10 - Cache Memory\|Section 10 - Cache Memory]]
