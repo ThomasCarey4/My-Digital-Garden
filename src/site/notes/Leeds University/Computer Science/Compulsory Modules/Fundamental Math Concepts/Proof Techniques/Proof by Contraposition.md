@@ -7,7 +7,7 @@ In a $\color{red}\text{proof by contraposition}$, a statement of the form $\colo
 
 
 ---
-##### Theorem 4.3
+##### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|Theorem]] 4.3
 *If* $n$ *is an integer and* $3n+2$ *is odd, then* $n$ *is odd.*
 ###### Proof
 Let $n$ be an arbitrary integer. We proceed by contraposition.
@@ -19,5 +19,5 @@ $$
 $$
 Hence $3n+2$ is even, because $3n+2 = 2\ell$ for some integer $\ell$, namely for $\ell = (3k+1)$. Thus we have reached our goal and the proof is complete.
 $\color{lightgreen}\text{Note: Instead of proving }\textquoteleft p \to q \textquoteright\text{, we proved } \textquoteleft \neg{q} \to \neg{p} \textquoteright\text{.}$
-$\color{lightgreen}\text{The proof of } \textquoteleft \neg{q} \to \neg{p} \textquoteright \text{ is a direct proof.}$
+$\color{lightgreen}\text{The proof of } \textquoteleft \neg{q} \to \neg{p} \textquoteright \text{ is a}$ [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Direct Proof\|direct proof]]
 
