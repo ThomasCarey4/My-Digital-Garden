@@ -31,9 +31,9 @@
 - Fewer = More memory references
 - How big?
 	- Large enough to hold a full address
-	- Large enough to hold a full word
-- Often possible to use two data registers for one word/address
-#### Program Status Word Register
+	- Large enough to hold a full [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Machine Word\|Machine Word]]
+- Often possible to use two data registers for one [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Machine Word\|Machine Word]]/address
+#### Program Status [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Machine Word\|Machine Word]] Register
 - The *PSW* is a special register that contains status information
 - This typical includes **condition codes** such as:
 	- Zero ( When the result is zero )
