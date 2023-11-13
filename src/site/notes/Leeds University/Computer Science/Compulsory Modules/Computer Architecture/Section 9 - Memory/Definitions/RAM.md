@@ -5,4 +5,4 @@
 **RAM** ( [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Random Access\|Random Access]] Memory ) is actually misnamed since [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Semiconductor Memory\|semiconductor memory]] is always [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Random Access\|random access]]
 - It is really read/write memory
 - It is volatile and so only useful for temporary storage
-- It can be static ( SRAM ) or dynamic ( [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Dynamic RAM\|DRAM]] )
+- It can be static ( [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Static RAM\|SRAM]] ) or dynamic ( [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Dynamic RAM\|DRAM]] )
