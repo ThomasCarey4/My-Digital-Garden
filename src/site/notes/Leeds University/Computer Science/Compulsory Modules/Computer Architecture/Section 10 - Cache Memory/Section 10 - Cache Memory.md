@@ -24,6 +24,9 @@ graph RL
 		AM --> |Data| AC
 	end
 ```
+### Memory Address Size
+- If we have $\color{lightblue} n$ bits, we can represent $\color{lightblue} 2^{n}$ unique memory addresses
+  ( **unsigned numbers starting from 0** )
 ### Memory Blocks and Cache Lines
 ![Cache Lines and Blocks.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2010%20-%20Cache%20Memory/Images/Cache%20Lines%20and%20Blocks.png)
 $\color{lightblue}\textrm{Block}$: The unit of data transfer
@@ -63,7 +66,7 @@ $
 
 </div></div>
 
-### Cache Hierarchies
+### Cache Hierarchies 
 Trade-off between [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Access Time\|access time]] & hit rate
 	- L1 Cache can focus on a fast access ( hit ) time
 	- L2 Cache can focus on a good hit rate
