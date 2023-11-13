@@ -15,7 +15,7 @@ In general:
 - Memory which needs a continuous power supply to preserve values is **volatile**
 - On **non-volatile** memory, data remains stored even if it is powered-off
 	- Also known as **persistent memory**
-	- *ROM* ( Read Only Memory ) is an example of non-volatile memory
+	- *[[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/ROM\|ROM]]* ( [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/ROM\|Read Only Memory]] ) is an example of non-volatile memory
 ##### Physical Types
 - **[[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Semiconductor Memory\|Semiconductor]] Storage** - used in [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/RAM\|RAM]], USB sticks
 - **Magnetic Storage** - used in disks and tapes
