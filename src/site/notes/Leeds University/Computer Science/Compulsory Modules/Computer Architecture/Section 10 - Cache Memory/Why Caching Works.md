@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/computer-architecture/section-10-cache-memory/why-caching-works/"}
 ---
 
-
 Memory hierarchy exploits program locality
 - Programs tend to reference parts of their address space that are local in $\color{red}\textrm{time}$ and $\color{red}\textrm{space}$
 ##### Temporal Locality
