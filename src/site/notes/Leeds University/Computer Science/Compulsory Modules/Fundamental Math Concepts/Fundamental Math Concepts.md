@@ -3,3 +3,4 @@
 ---
 
 - **[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Fundamentals of Logic\|Fundamentals of Logic]]**
+- **[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Proof Techniques\|Proof Techniques]]**
