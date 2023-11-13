@@ -5,8 +5,8 @@
 **Dynamic [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/RAM\|RAM]] ( DRAM )**:
 - Cells store bits as charge in capacitors
 - Charge can leak so the cells need the periodically refreshed, even when powered ( hence **dynamic** )
-- 100ms latency
-- Cheaper than SRAM as capacitor is cheaper than transistor
+- 100ms [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Access Time\|latency]]
+- Cheaper than [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Static RAM\|SRAM]] as capacitor is cheaper than transistor
 ### Refreshing
 All DRAM requires a **refresh** operation
 - A refresh circuit is included on the chip
