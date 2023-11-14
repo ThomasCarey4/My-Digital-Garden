@@ -75,6 +75,6 @@ $$
 expresses the same as
 $\color{red} \forall x\ Q(x)$, where $\color{lightgreen} Q(x)$ is $\color{lightgreen} \exists y\ P(x,y)$, where $\color{blue} P(x,y)$  is $\color{blue} x+y=0$
 
-$\color{red} \textrm{Important}$: For each variable that is quantified we need to specify the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Sets\|domain]]. Different variables can have different [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Sets\|domains]]
+$\color{red} \textrm{Important}$: For each variable that is quantified we need to specify the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]]. Different variables can have different [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domains]]
 
 #TODO Slightly more to do, up to page 22
