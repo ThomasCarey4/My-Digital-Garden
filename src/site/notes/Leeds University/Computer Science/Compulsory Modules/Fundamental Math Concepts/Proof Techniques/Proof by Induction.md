@@ -4,7 +4,9 @@
 
 By $\color{red} \mathbb{N}$ we denote the set of all $\color{red}\text{natural numbers}$ (i.e. $\mathbb{N} \coloneqq \set{0,1,2,3,...}$)
 
-Let $P(n)$ be a statement about a natural number $n$ The aim is to prove that statement $P(n)$ is true **for every** $n \in \mathbb{N}$. One method to do this is by $\color{red}\text{mathematical induction}$:
+Let $P(n)$ be a statement about a natural number $n$
+- This is called the $\color{red}\text{induction hypothesis}$
+The aim is to prove that statement $P(n)$ is true **for every** $n \in \mathbb{N}$. One method to do this is by $\color{red}\text{mathematical induction}$:
 
 1. First, we prove that statement $P(n)$ is true for $n=0$.
     We call this step $\color{red}\text{basis of the induction}$, or simply $\color{red}\text{basis step}$
@@ -13,3 +15,5 @@ Let $P(n)$ be a statement about a natural number $n$ The aim is to prove that st
     This step is called the $\color{red}\text{inductive step}$
 
 Altogether, this proves that statement $P(n)$ is true $\color{red}\text{for all}$ $n \in \mathbb{N}$
+##### Strong Induction
+Equivalent to 'normal' induction, however you can assume that every number in the set less than $n$ ( $n_{0} \leq i \leq n$ ) is also true when proving $P(n+1)$
