@@ -17,14 +17,14 @@ The existential quantification $\exists x\ P(x)$ can be expressed as
 - 'For some $x$ $P(x)$'
 
 #### Remarks
-- A [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Sets\|domain]] must always be specified when a statement $\exists x\ P(x)$ is used
-- The meaning of $\exists x\ P(x)$ changes when the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Sets\|domain]] changes
-- Without specifying the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Sets\|domain]], the statement $\exists x\ P(x)$ has no meaning
+- A [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]] must always be specified when a statement $\exists x\ P(x)$ is used
+- The meaning of $\exists x\ P(x)$ changes when the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]] changes
+- Without specifying the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]], the statement $\exists x\ P(x)$ has no meaning
 
-### Finite Domains
-When the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Sets\|domain]] is $\color{red} finite$, i.e. when all the elements in the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Sets\|domain]] can be listed, say, $x_1,x_2,...,x_n$ it follows that the existential quantification $\color{red}\exists x\ P(x)$ expresses the same as the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|disjunction]]
+### Finite [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|Domains]]
+When the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]] is $\color{red} finite$, i.e. when all the elements in the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]] can be listed, say, $x_1,x_2,...,x_n$ it follows that the existential quantification $\color{red}\exists x\ P(x)$ expresses the same as the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|disjunction]]
 $$
 \color{red}P(x_{1})\lor P(x_{2})\lor\ ...\ \lor P(x_{n})
 $$
 because this [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Disjunction\|disjunction]] is true [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Biconditional\|if and only if]] at least one $\color{red}P(x_{1})\color{white},\color{red}P(x_{2})\color{white},\ ...\ ,\color{red}P(x_{n})$ is true
-- If the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Sets\|domain]] is empty, the existential quantifier is false
+- If the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]] is empty, the existential quantifier is false
