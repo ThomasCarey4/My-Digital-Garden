@@ -4,7 +4,9 @@
 
 $$
 \text{AMAT} = \text{Hit Time}\ +\ (\ \text{Miss Rate}\ \times\ \text{Miss Penalty}\ )
-$$ { #Equation}
+$$ 
+{ #Equation}
+
 
 ##### Improving AMAT
 - Keep *Miss Rate* low
