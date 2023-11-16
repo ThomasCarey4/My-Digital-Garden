@@ -4,6 +4,7 @@
 
 In **Direct-Mapped Caches** each memory block is assigned to a specific line in the cache
 - This makes block placement, lookup and replacement much easier
+- Usually used in embedded systems
 For example, a simple system would be to map every $n^{th}$ memory address to a cache line, where $n$ is the number of cache lines
 ![Direct-Mapped Cache.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2010%20-%20Cache%20Memory/Images/Direct-Mapped%20Cache.png)
 
