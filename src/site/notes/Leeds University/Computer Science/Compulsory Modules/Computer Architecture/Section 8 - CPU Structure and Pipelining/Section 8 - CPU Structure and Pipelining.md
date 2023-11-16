@@ -4,7 +4,8 @@
 
 #TODO He do be skipping like half the slides lol
 ### Registers
-- The CPU must have some working space ( temporary storage )
+- The CPU must have some working space
+    ( temporary storage )
 - This space is called a **register**
 - The number and function vary between processor designs
 - This is one of the major design decisions
