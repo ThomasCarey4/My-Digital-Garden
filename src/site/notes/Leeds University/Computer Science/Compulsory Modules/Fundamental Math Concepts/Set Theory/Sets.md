@@ -40,7 +40,7 @@ $$
 $$
 This is called the **set builder notation** ( or **intentional** set notation )
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/definitions/definition-5-3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/definitions/definition-5-3-empty-set/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -56,3 +56,21 @@ A set with exactly one element is also called a $\color{red}\text{singleton set}
 - $\color{red}\text{All elements in a set are distinct.}$
 - $\color{red}\text{The elements of a set do not come with a fixed ordering.}$
 - $\color{red}\text{The same set can be described in different ways.}$
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/definitions/definition-5-5-subsets-and-supersets/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+Let A, B be [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|sets]]
+1. A is a $\color{red}\text{subset}$ of B (short: $\color{red} A\subseteq B$), if every element of A is also an element of B
+2. A is a $\color{red}\text{proper subset}$ of B (short: $\color{red} A \subsetneq B$), if $A\subseteq B$ and $A \neq B$
+3. A is a $\color{red}\text{superset}$ of B (short: $\color{red} A\supseteq B$), if $B\subseteq A$
+4. A is a $\color{red}\text{proper superset}$ of B (short: $\color{red} A\supsetneq B$), if $A\supseteq B$ and $A \neq B$
+###### Remark
+Alternative notation for $\color{red} \subsetneq\textcolor{white}{:}$ $\color{red} \subset$
+
+
+</div></div>
+
