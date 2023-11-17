@@ -2,9 +2,18 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/computer-architecture/section-10-cache-memory/direct-mapped-cache/direct-mapped-cache/"}
 ---
 
+##### Direct Mapped Cache
 In **Direct-Mapped Caches** each memory block is assigned to a specific line in the cache
 - This makes block placement, lookup and replacement much easier
 - Usually used in embedded systems
+###### Disadvantages
+- While DMC is simple and cheap, it has large problems with its 
+{ #Thrashing}
+
+	- If the program attempts to access multiple addresses ( or [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 10 - Cache Memory/Direct Mapped Cache/DMC - Spatial Locality\|blocks]] ) assigned to the same cache line repeatedly, there will be constant 'cache misses'
+	- This is known as ***thrashing***
+
+##### How it Works
 For example, a simple system would be to map every $n^{th}$ memory address to a cache line, where $n$ is the number of cache lines
 ![Direct-Mapped Cache.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2010%20-%20Cache%20Memory/Images/Direct-Mapped%20Cache.png)
 
