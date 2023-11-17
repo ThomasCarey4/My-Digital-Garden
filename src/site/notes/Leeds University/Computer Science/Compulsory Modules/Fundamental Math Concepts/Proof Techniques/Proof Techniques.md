@@ -8,7 +8,7 @@
 
 
 
-In a $\color{red}\textrm{direct proof}$, the statement is proven 'directly', i.e. without any 'detours' 
+In a $\color{red}\text{direct proof}$, the statement is proven 'directly', i.e. without any 'detours' 
 
 </div></div>
 
