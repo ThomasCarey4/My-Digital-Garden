@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/homer/","tags":["gardenEntry"]}
 ---
 
-Welcome ☻
+Welcome ☻ 
 [[Leeds University/Leeds University\|My University]]
 [[Leeds University/Computer Science/Computer Science\|My Degree]]
 
