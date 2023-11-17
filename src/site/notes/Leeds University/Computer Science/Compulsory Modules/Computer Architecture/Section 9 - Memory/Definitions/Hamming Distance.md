@@ -7,7 +7,7 @@
 	- E.g. the distance between $1011101 \rightarrow 1001001$
 		- is 2 as $10\color{red}0\color{white}1\color{red}0\color{white}01$
 - Minimum Hamming Distance of a code
-	- If distance is $d$, then $d\textendash \textrm{single}$ bit errors are required to convert any one valid code ( string ) into another code with the same [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Checksum\|checksum]]
+	- If distance is $d$, then $d\textendash \text{single}$ bit errors are required to convert any one valid code ( string ) into another code with the same [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Checksum\|checksum]]
 - For example, a simple [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Checksum\|checksum]]:
 { #example}
 
