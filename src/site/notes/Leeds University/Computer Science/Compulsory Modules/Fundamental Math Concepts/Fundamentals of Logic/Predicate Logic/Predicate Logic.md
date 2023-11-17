@@ -14,28 +14,28 @@ z\ &\color{lightgreen}=x+y
 \end{align}
 $$
 $$
-\textrm{and}
+\text{and}
 $$
 $$
-\color{lightgreen}\textrm{Computer }x\textrm{ is under attack by an intruder}
+\color{lightgreen}\text{Computer }x\text{ is under attack by an intruder}
 $$
 $$
-\textrm{and}
+\text{and}
 $$
 $$
-\color{lightgreen}\textrm{Computer }x\textrm{ is functioning properly}
+\color{lightgreen}\text{Computer }x\text{ is functioning properly}
 $$
 are often found in mathematical assertions, in computer programs, and in system specifications.
 
 These statements are called [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Free and Bound Variables\|free variables]] as they are neither true nor false when the values of the variables are not specified
 ### Predicate and [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic\|Propositional]] Functions
-The statement $\textquoteleft\color{red}x\color{lightgreen}\textrm{ is greater than 3}\color{white}\textquoteright$ has two parts
+The statement $\textquoteleft\color{red}x\color{lightgreen}\text{ is greater than 3}\color{white}\textquoteright$ has two parts
 $\color{red}\boxed{O}$ = The variable $\color{red}x$, is the ***subject*** of the statement
-$\color{lightgreen}\boxed{O}$ = The ***predicate*** $\color{lightgreen}\textquoteleft\textrm{is greater than 3}\textquoteright$, refers to *a property that the subject of the statement **may or may not have***
+$\color{lightgreen}\boxed{O}$ = The ***predicate*** $\color{lightgreen}\textquoteleft\text{is greater than 3}\textquoteright$, refers to *a property that the subject of the statement **may or may not have***
 
-We can denote the statement $\textquoteleft\color{red}x\color{lightgreen}\textrm{ is greater than 3}\color{white}\textquoteright$ by $\color{red}P(x)$, where *P* denotes the predicate 'is greater than 3' and $x$ is the variable
+We can denote the statement $\textquoteleft\color{red}x\color{lightgreen}\text{ is greater than 3}\color{white}\textquoteright$ by $\color{red}P(x)$, where *P* denotes the predicate 'is greater than 3' and $x$ is the variable
 
-The statement *$P(x)$* is also said to be the value of the $\color{red}\textrm{propositional function}$ $P$ and $x$
+The statement *$P(x)$* is also said to be the value of the $\color{red}\text{propositional function}$ $P$ and $x$
 
 Once the variable $x$ is [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Free and Bound Variables\|bound]] ( is assigned a value) the statement $P(x)$ becomes a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic\|proposition]] ( also called a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Free and Bound Variables#^Sentence\|sentence]] ) and has a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Truth Value\|truth value]]
 
@@ -49,7 +49,7 @@ Once values are assigned to the variables $x$ and $y$, the statement $\color{red
 ### *n*-ary Predicates
 In general, a statement involving the *n* variables $\color{red}x_{1},x_{2},...,x_{n}$ can be denoted by $\color{red}P(x_{1},x_{2},...,x_{n})$
 
-A statement of the form $P(x_{1},x_{2},...,x_{n})$ is the value of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic\|propositional]] function $\color{red}P$ at the *n*-tuple $\color{red}(x_{1},x_{2},...,x_{n})$, and $P$ is also called an $\color{red}\textrm{\emph{n}-ary predicate}$
+A statement of the form $P(x_{1},x_{2},...,x_{n})$ is the value of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Propositional Logic\|propositional]] function $\color{red}P$ at the *n*-tuple $\color{red}(x_{1},x_{2},...,x_{n})$, and $P$ is also called an $\color{red}\text{\emph{n}-ary predicate}$
 
 ### Quantification
 | Type | Statement | When True? | When False? |
@@ -75,6 +75,6 @@ $$
 expresses the same as
 $\color{red} \forall x\ Q(x)$, where $\color{lightgreen} Q(x)$ is $\color{lightgreen} \exists y\ P(x,y)$, where $\color{blue} P(x,y)$  is $\color{blue} x+y=0$
 
-$\color{red} \textrm{Important}$: For each variable that is quantified we need to specify the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]]. Different variables can have different [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domains]]
+$\color{red} \text{Important}$: For each variable that is quantified we need to specify the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]]. Different variables can have different [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domains]]
 
 #TODO Slightly more to do, up to page 22
