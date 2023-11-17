@@ -3,7 +3,7 @@
 ---
 
 Memory hierarchy exploits program locality
-- Programs tend to reference parts of their address space that are local in $\color{red}\textrm{time}$ and $\color{red}\textrm{space}$
+- Programs tend to reference parts of their address space that are local in $\color{red}\text{time}$ and $\color{red}\text{space}$
 ##### Temporal Locality
 Recently referenced addressed are likely to be referenced again - reused
 ##### Spatial Locality
