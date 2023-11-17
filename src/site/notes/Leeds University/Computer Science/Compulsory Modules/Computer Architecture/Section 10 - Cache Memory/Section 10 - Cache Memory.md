@@ -29,15 +29,15 @@ graph RL
   ( **unsigned numbers starting from 0** )
 ### Memory Blocks and Cache Lines
 ![Cache Lines and Blocks.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2010%20-%20Cache%20Memory/Images/Cache%20Lines%20and%20Blocks.png)
-$\color{lightblue}\textrm{Block}$: The unit of data transfer
+$\color{lightblue}\text{Block}$: The unit of data transfer
 - We break main memory into blocks
 	- Each block holds $m$ bytes ( typically, 64 bytes )
-$\color{lightblue}\textrm{Line}$: We break the cache into multiple lines
-- Each cache line holds exactly one memory $\color{lightblue}\textrm{block}$
+$\color{lightblue}\text{Line}$: We break the cache into multiple lines
+- Each cache line holds exactly one memory $\color{lightblue}\text{block}$
 #### Terminology
-- A memory access is said to $\color{red}\textrm{Hit}$ at a cache if the block is found at a cache line
-- [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Access Time\|Access time]] of a hit is the $\color{red}\textrm{Hit Time}$
-- The additional time ( much slower ) to fetch a block on a miss is called the $\color{red}\textrm{Miss Penalty}$
+- A memory access is said to $\color{red}\text{Hit}$ at a cache if the block is found at a cache line
+- [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Access Time\|Access time]] of a hit is the $\color{red}\text{Hit Time}$
+- The additional time ( much slower ) to fetch a block on a miss is called the $\color{red}\text{Miss Penalty}$
 $\textcolor{red}{Miss\ Rate} = Misses\ / \ Accesses$
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/leeds-university/computer-science/compulsory-modules/computer-architecture/section-10-cache-memory/average-memory-access-time/#equation" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
