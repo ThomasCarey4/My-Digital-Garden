@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/predicate-logic/free-and-bound-variables/"}
 ---
 
-When a quantifier is used on the variable $x$, we say that this occurrence of the variable is $\color{red}\textrm{bound}$
+When a quantifier is used on the variable $x$, we say that this occurrence of the variable is $\color{red}\text{bound}$
 
-An occurrence of a variable that is not bound by a quantifier or set equal to a particular value is said to be $\color{red} \textrm{free}$
+An occurrence of a variable that is not bound by a quantifier or set equal to a particular value is said to be $\color{red} \text{free}$
 
-If all the variable that occur in a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Free and Bound Variables#Predicate and Propositional Logic Propositional Functions\|predicate function]] are $\color{red} \textrm{bound}$, then that is called a $\color{red} \textrm{sentence}$ of predicate logic
+If all the variable that occur in a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Free and Bound Variables#Predicate and Propositional Logic Propositional Functions\|predicate function]] are $\color{red} \text{bound}$, then that is called a $\color{red} \text{sentence}$ of predicate logic
 { #Sentence}
 
 
 This can be done using a combination of universal quantifiers, existential quantifiers, and value assignments
 
-The part of a logical expression to which a quantifier is applied is called the $\color{red} \textrm{scope}$ of this quantifier. Consequently, a variable is free if it is outside the scope of all quantifiers in the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] that specify this variable
+The part of a logical expression to which a quantifier is applied is called the $\color{red} \text{scope}$ of this quantifier. Consequently, a variable is free if it is outside the scope of all quantifiers in the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]] that specify this variable
 { #Scope}
 
 
