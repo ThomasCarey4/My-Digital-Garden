@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/fundamentals-of-logic/predicate-logic/quantification/existential-quantification/"}
 ---
 
-The $\color{red}\textrm{existential quantification}$ of $P(x)$ is the statement
+The $\color{red}\text{existential quantification}$ of $P(x)$ is the statement
 $$
 \color{red}
-\textquoteleft\textrm{There exists an element }x\textrm{ in the domain such that }P(x)\textquoteright
+\textquoteleft\text{There exists an element }x\text{ in the domain such that }P(x)\textquoteright
 $$
 - The notation $\color{red}\exists x\ P(x)$ denotes the existential quantification of $P(x)$
-- The symbol $\color{red}\exists$ is called the $\color{red} \textrm{existential quantifier}$
-- We read $\exists x\ P(x)$ as $\color{red} \textquoteleft \textrm{there exists an }x\ P(x)\textquoteright$ or $\color{red} \textquoteleft \textrm{there is an }x\ P(x) \textquoteright$
+- The symbol $\color{red}\exists$ is called the $\color{red} \text{existential quantifier}$
+- We read $\exists x\ P(x)$ as $\color{red} \textquoteleft \text{there exists an }x\ P(x)\textquoteright$ or $\color{red} \textquoteleft \text{there is an }x\ P(x) \textquoteright$
 
 The existential quantification $\exists x\ P(x)$ can be expressed as
 - 'There is an $x$ such that $P(x)$'
