@@ -3,12 +3,13 @@
 ---
 
 Spatial Locality is the idea that if a memory address is referenced, nearby addresses are likely to be referenced soon
-- One-byte cache lines don't take advantage of this, therefore:
-###### We make the cache line larger than one byte
+- One-block cache lines don't take advantage of this, therefore:
+
+**We make each cache line two blocks**
 Then, we can group the memory addresses into pairs
 - i.e. addresses 0 and 1 become ***block address*** 0
 $$
-Block\ Addresses \neq Byte\ Addresses
+Block\ Address \neq Byte\ Address
 $$
 ![Direct-Mapped Cache Block Addresses.png|600](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2010%20-%20Cache%20Memory/Images/Direct-Mapped%20Cache%20Block%20Addresses.png)
 In this example, if a program reads from byte address $4$ we'll load all of memory block $2$ ( Both addresses $4$ and $5$ ) into cache line $2$
