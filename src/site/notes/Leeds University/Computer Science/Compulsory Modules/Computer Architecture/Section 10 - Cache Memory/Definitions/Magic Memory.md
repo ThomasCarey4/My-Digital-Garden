@@ -4,4 +4,4 @@
 
 How to get big and fast memory?
 - Memory hierarchy
-	- Make memory $\color{red}\textrm{appear}$ large and fast
+	- Make memory $\color{red}\text{appear}$ large and fast
