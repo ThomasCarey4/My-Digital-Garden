@@ -3,7 +3,7 @@
 ---
 
 *If* $n$ *is an odd integer, then* $n^2$ *is odd.*
-$\color{lightgreen}\textrm{Note that the statement of the}$ [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|theorem]] $\color{lightgreen}\text{is of the form}:$
+$\color{lightgreen}\text{Note that the statement of the}$ [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|theorem]] $\color{lightgreen}\text{is of the form}:$
 $$
 \color{lightgreen} \forall n (P(n)\to Q(n))
 $$
