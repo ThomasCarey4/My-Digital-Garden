@@ -2,18 +2,11 @@
 {"dg-publish":true,"permalink":"/homer/","tags":["gardenEntry"]}
 ---
 
-Welcome ☻ 
+Welcome ☻
 [[Leeds University/Leeds University\|My University]]
 [[Leeds University/Computer Science/Computer Science\|My Degree]]
 
-## Tasks
-```todoist
-name: My Tasks
-filter: "##Leeds"
-sorting: 
-- date
-group: true
-```
+
 ## TODO
 | File                                                                                                                                                                                                          | Created                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
