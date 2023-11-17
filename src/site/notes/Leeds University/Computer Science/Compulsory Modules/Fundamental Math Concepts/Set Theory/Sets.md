@@ -8,13 +8,13 @@ $\color{red} x \notin A$ denotes that **x is not an element** of the set A.
 #### Defining Sets
 ##### By Enumeration
 $$
-\color{lightgreen}A\coloneqq\set{0,1,2,3,4,5}=\set{0,1,2,\bullet\bullet\bullet,5}
+\color{lightgreen}A\coloneqq\set{0,1,2,3,4,5}=\set{0,1,2,\dots,5}
 $$
 This is called the **roster method** ( or **extensional** set notation )
 ##### By characteristic properties
 $$
 \begin{align}
-\color{lightgreen}B\coloneqq\set{x\ |\ x\in A\ and\ x\ is\ even}^{1}
+\color{lightgreen}B\coloneqq\set{x\ |\ x\in A\ and\ x\ is\ even}
 \end{align}
 $$
 ### Fundamentals
