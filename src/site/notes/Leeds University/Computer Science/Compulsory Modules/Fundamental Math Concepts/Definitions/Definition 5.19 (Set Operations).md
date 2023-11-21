@@ -7,4 +7,6 @@ Let A and B be sets
 2. $\color{red}\text{Union:}$ $A \cup B \coloneqq \set{x | x \in A\ or\ x \in B}$
 3. $\color{red}\text{Difference:}$ $A - B \coloneqq \set{x | x \in A\ and\ x \notin B}$
 4. $\color{red}\text{Symmetric Difference:}$ $A \oplus B \coloneqq (A - B) \cup (B - A)$
-Note that $A - B$ is sometimes denoted by $\color{red} A\ \backslash\ B$, and $A \oplus B$ by $\color{red} A\ \triangle\ B$
+
+Note that $A - B$ is sometimes denoted by $\color{red} A\ \backslash\ B$,
+and $A \oplus B$ by $\color{red} A\ \triangle\ B$
