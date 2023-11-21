@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/proof-techniques/equivalence-proofs/"}
 ---
 
-##### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|Theorem]] 4.5
+##### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem]] 4.5
 *If* $n$ *is a positive integer, then* $n$ *is odd [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Biconditional\|if and only if]]* $n^{2}$ *is odd*
 ###### Proof
 Let $n$ be a positive integer. We prove the following two parts;
@@ -14,4 +14,4 @@ $$
 n^{2} = (2\ell)^{2} = 4\ell^{2} = 2(2\ell^{2})
 $$
 Hence, by definition of 'even', $n^{2}$ is even. This proves part 2.
-Together, parts 1 and 2 prove the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|theorem]]
+Together, parts 1 and 2 prove the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem]]
