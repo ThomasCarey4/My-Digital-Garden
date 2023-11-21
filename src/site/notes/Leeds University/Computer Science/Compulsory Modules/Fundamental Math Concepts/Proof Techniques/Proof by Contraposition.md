@@ -7,7 +7,7 @@ In a $\color{red}\text{proof by contraposition}$, a statement of the form $\colo
 
 
 ---
-##### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|Theorem]] 4.3
+##### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem]] 4.3
 *If* $n$ *is an integer and* $3n+2$ *is odd, then* $n$ *is odd.*
 ###### Proof
 Let $n$ be an arbitrary integer. We proceed by contraposition.
