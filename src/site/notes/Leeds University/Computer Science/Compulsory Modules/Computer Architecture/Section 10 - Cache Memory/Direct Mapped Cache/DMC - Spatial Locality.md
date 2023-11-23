@@ -25,6 +25,6 @@ The [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture
 #### Types of Cache Misses
 - Compulsory Miss
 	- These misses occur when **the first access** to a block happens
-	  As there is no valid bit
+	  As there is no [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 10 - Cache Memory/Direct Mapped Cache/Direct Mapped Cache#^valid-bit\|valid bit]]
 - Conflict Miss
 	- These misses occur when several blocks are mapped to the same cache line
