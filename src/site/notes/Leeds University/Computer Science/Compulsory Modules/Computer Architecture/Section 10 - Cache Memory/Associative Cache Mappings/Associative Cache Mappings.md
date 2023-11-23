@@ -8,4 +8,4 @@
 ##### The Cost
 - Fully associative cache is expensive to implement
 	- Because there is no index field in the address anymore, the *entire block* address must be used as the tag
-	- Data could be anywhere in the cache, so we must check the tag of every cache line. ***That take a lot of comparators***
+	- Data could be anywhere in the cache, so we must check the tag of every cache line. ***That takes a lot of comparators***
