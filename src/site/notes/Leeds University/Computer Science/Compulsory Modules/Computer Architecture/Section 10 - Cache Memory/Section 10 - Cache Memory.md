@@ -98,3 +98,6 @@ In **Direct-Mapped Caches** each memory block is assigned to a specific line in 
 </div></div>
 
 
+![Pasted image 20231124122354.png](/img/user/Pasted%20image%2020231124122354.png)
+- V = [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 10 - Cache Memory/Direct Mapped Cache/Direct Mapped Cache#Valid Bit\|Valid Bit]]
+- D = [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 10 - Cache Memory/Cache Block Replacement Policies#Write-Back Caches\|Dirty Bit]]
