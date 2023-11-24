@@ -16,3 +16,34 @@ A $\color{red}\text{set}$ is an unordered collection of objects, called $\color{
 
 </div></div>
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/definitions/definition-5-19-set-operations/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+Let A and B be sets
+1. $\color{red}\text{Intersection:}$  $A \cap B \coloneqq \set{x | x \in A\ and\ x \in B}$
+2. $\color{red}\text{Union:}$ $A \cup B \coloneqq \set{x | x \in A\ or\ x \in B}$
+3. $\color{red}\text{Difference:}$ $A - B \coloneqq \set{x | x \in A\ and\ x \notin B}$
+4. $\color{red}\text{Symmetric Difference:}$ $A \oplus B \coloneqq (A - B) \cup (B - A)$
+
+Note that $A - B$ is sometimes denoted by $\color{red} A\ \backslash\ B$,
+and $A \oplus B$ by $\color{red} A\ \triangle\ B$
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/set-theory/theorems/theorem-5-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+For all [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|sets]] A, B, C:
+1. $A=B$ [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Biconditional\|if and only if]] $A \subseteq B$ [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Conjunction\|and]] $B \subseteq A$
+2. If $A \subseteq B$ [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Conjunction\|and]] $B \subseteq C$, then $A \subseteq C$
+
+
+</div></div>
+
