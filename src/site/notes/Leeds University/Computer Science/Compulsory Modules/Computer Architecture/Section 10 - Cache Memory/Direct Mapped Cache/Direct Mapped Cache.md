@@ -29,11 +29,9 @@ To distinguish which memory block the cache has copied, you can use a *tag* to s
 
 The computer can the concatenate the tags with the cache line index to calculate the block addresses
 ![Direct-Mapped Cache Concatenation.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2010%20-%20Cache%20Memory/Images/Direct-Mapped%20Cache%20Concatenation.png)
-
+###### Valid Bit
 Finally, each cache line needs a *valid bit* to inform the system that data has been loaded
-- When the system starts the cache would be empty![Direct-Mapped Cache Valid Bit.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2010%20-%20Cache%20Memory/Images/Direct-Mapped%20Cache%20Valid%20Bit.png)
-{ #valid-bit}
-
+- When the system starts the cache would be empty![Direct-Mapped Cache Valid Bit.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2010%20-%20Cache%20Memory/Images/Direct-Mapped%20Cache%20Valid%20Bit.png) 
 #### Loads & Stores in DMC
 ##### Loads
 When the CPU tries to read from memory, the address will be sent to a ***Cache Controller***
