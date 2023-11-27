@@ -29,7 +29,10 @@ This is useful because, for example, if 'num' was a *really* large data type (su
 PATH: "https://raw.githubusercontent.com/ThomasCarey4/COMP1711/main/pointer-arithmetic.c"
 TITLE: "Example 2"
 ```
+##### The Definition of an Array
 The reason this works is because in C arrays are defined by:
+{ #68d48d}
+
 ```C
 x[y]
 // Where x = Pointer to the first item
@@ -37,7 +40,7 @@ x[y]
 ```
 In the 'Example 2', the variable 'array' is *effectively* a pointer to 'array\[0]'
 When you call 'array\[1]' the program first points to 'array\[0]' and then *steps* to next memory address, which would be 'array\[1]'
-###### Syntax
+##### Syntax
 ```C
 *add++ // = Access the address, then add 1
 *++add // = Add 1 to the address, then access it
