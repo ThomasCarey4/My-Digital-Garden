@@ -4,6 +4,8 @@
 
 Pointers are variables that store memory addresses
 	- Typically of other variables
+{ #def}
+
 
 This is useful for directly modifying a variable outside of your scope
 ```embed-c
@@ -30,8 +32,13 @@ TITLE: "Example 2"
 The reason this works is because in C arrays are defined by:
 ```C
 x[y]
-// Where x = Pointer to first item
+// Where x = Pointer to the first item
 // and y = how many steps after
 ```
 In the 'Example 2', the variable 'array' is *effectively* a pointer to 'array\[0]'
 When you call 'array\[1]' the program first points to 'array\[0]' and then *steps* to next memory address, which would be 'array\[1]'
+###### Syntax
+```C
+*add++ // = Access the address, then add 1
+*++add // = Add 1 to the address, then access it
+```
