@@ -4,7 +4,7 @@
 
 Virtual Memory: *Indirection to physical memory*
 	- The program uses a **virtual memory address** (program address)
-	- The virtual memory address is converted into a **physical address** (real address) [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table\|{1}]]
+	- The virtual memory address is converted into a **physical address** (real address) [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table/Page Table\|{1}]]
 	- The physical address indicates a physical location of data
 	- Physical location can be memory or disk
 ```mermaid
@@ -26,13 +26,21 @@ V[Virtal: 5000] --> D[Disk: 9100]
 >[!important] 
 >>[!question] 
 >>What if a piece of data is on disk rather than in memory?
->>- If the [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table\|Page Table]] indicates that the virtual address is not in memory
+>>- If the [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table/Page Table\|Page Table]] indicates that the virtual address is not in memory
 >
 >A hardware exception will be generated (captured by the OS)
 >- The current process suspends, others can resume
 >- The OS moves the data to memory and resumes the suspended process
 
-#TODO 
+Page faults are generated when the [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table/Page Table\|Page Table]] tells the OS that the page is on **disk**
+	- The CPU then generates a ***Page Fault Exception***
+- The OS must then retrieve the data from the disk
+		- The OS chooses a page to **evict** from **[[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/RAM\|RAM]]** and write to **disk**
+		- The OS then reads the page from **disk** and puts it in **[[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/RAM\|RAM]]**
+		- The OS then updates the **[[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table/Page Table\|Page Table]]** to map the new page
+- The OS then jumps back to the instruction that caused the page fault
+		- This time won't cause a page fault since the page has been loaded into memory
+
 
 
 </div></div>
@@ -43,7 +51,7 @@ The OS controls how these virtual addresses are mapped to physical memory
 	- E.g., virtual address $0100$ for processes 1 and 2 could be mapped onto different physical locations
 ![Virtual Address Spaces.png|600](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2011%20-%20Operating%20System%20Support%20and%20Virtual%20Memory/Images/Virtual%20Address%20Spaces.png)
 #### Memory Protection
-Each [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table\|page table]] entry contains access rights information
+Each [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table/Page Table\|Page Table]] entry contains access rights information
 	- This is hardware enforced (An exception will be triggered if violated)
 ![Memory Protection.png|600](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2011%20-%20Operating%20System%20Support%20and%20Virtual%20Memory/Images/Memory%20Protection.png)
 #### Virtual Memory vs Caches
@@ -62,4 +70,13 @@ Physical memory is organised into **Frames** and virtual memory into **Pages**
 When a process is created:
 	- The OS allocates the required number of frames to it
 	- The OS maintains the list of free frames
-	- The [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table\|Page Table]] is used to keep track
+	- The [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table/Page Table\|Page Table]] is used to keep track
+#### Summary of Virtual Memory
+Virtual memory adds a level of **indirection** between the **virtual program addresses (VA)** and the **physical [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/RAM\|RAM]] addresses (PA)**
+This allows us to
+	- Map memory to disk ("Unlimited" memory to run larger programs)
+	- Keep programs from accessing each other's memory (Memory protection)
+	- Fill holes in the [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/RAM\|RAM]] address space (Efficiency)
+- But **we have to translate every single memory access** from a **VA** to a **PA**
+		- **Page tables** for each process to keep track of all translations
+		- Fast translation via a hardware **[[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table/Translation Look-Aside Buffer (TLB)\|Translation Look-Aside Buffer (TLB)]]**
