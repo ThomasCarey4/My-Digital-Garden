@@ -40,8 +40,8 @@ The sub-[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math 
 
 
 
-We let $\mathbb{N}$ denote the set of all natural numbers including 0
-We let $\mathbb{N}_{>0}$ denote the set of all natural numbers excluding 0
+We let $\mathbb{N}$ denote the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] of all natural numbers including 0
+We let $\mathbb{N}_{>0}$ denote the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] of all natural numbers excluding 0
 
 We use **'[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formula]]'** to mean *'proposition or compound proposition'*
 
