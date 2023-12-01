@@ -15,7 +15,7 @@ $$
 \color{red} 
 \forall x\ P(x)
 $$
-where $\color{red} P(x)$ is the statement $\color{red} \textquoteleft x\text{ has taken a course in calculus} \textquoteright$ and the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]] consists of all the students in you class
+where $\color{red} P(x)$ is the statement $\color{red} \textquoteleft x\text{ has taken a course in calculus} \textquoteright$ and the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|domain]] consists of all the students in you class
 What is the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Negation\|negation]]?
 $$
 \begin{align}
