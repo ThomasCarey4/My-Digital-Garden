@@ -16,10 +16,11 @@ A program which controls the execution of all other programs (applications)
 	- Making the computer easier to use
 - **Efficiency**
 	- Allowing better use of computer resources
-### Early Computing Systems
+### [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/Week 2.2 - Hardware/Early Computing\|Early Computing]] Systems
 In the old days (1950s), computers were machines with vacuum tubes
 - I/O by paper tube / punch cards
 - User = Programmer = Operator
 	- In modern systems the *Operator* is replaced by the *Operating* System
 #TODO IDK what the fuck this man doing, he just yapping
+#TODO You missed a lecture dipshit, you gotta catchup
 Multi-Programmed Batch Systems (Atlas)
