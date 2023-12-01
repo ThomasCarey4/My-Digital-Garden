@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/5-set-theory/definitions/definition-5-19-set-operations/","tags":["Definition"]}
 ---
 
-Let A and B be sets
+Let A and B be [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|sets]]
 1. $\color{red}\text{Intersection:}$  $A \cap B \coloneqq \set{x | x \in A\ and\ x \in B}$
 2. $\color{red}\text{Union:}$ $A \cup B \coloneqq \set{x | x \in A\ or\ x \in B}$
 3. $\color{red}\text{Difference:}$ $A - B \coloneqq \set{x | x \in A\ and\ x \notin B}$
