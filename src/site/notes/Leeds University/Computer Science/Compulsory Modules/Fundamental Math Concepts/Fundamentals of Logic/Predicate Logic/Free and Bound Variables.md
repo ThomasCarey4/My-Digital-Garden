@@ -4,7 +4,7 @@
 
 When a quantifier is used on the variable $x$, we say that this occurrence of the variable is $\color{red}\text{bound}$
 
-An occurrence of a variable that is not bound by a quantifier or set equal to a particular value is said to be $\color{red} \text{free}$
+An occurrence of a variable that is not bound by a quantifier or [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] equal to a particular value is said to be $\color{red} \text{free}$
 
 If all the variable that occur in a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Free and Bound Variables#Predicate and Propositional Logic Propositional Functions\|predicate function]] are $\color{red} \text{bound}$, then that is called a $\color{red} \text{sentence}$ of predicate logic
 { #Sentence}
