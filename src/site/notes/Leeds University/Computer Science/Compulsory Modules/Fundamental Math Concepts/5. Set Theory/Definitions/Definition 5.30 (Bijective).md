@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/5-set-theory/definitions/definition-5-30-bijective/","tags":["Definition"]}
+---
+
+A [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.26 (Function)\|function]] $f : A \to B$ is said to be $\color{red}\text{bijective}$ (or [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.28 (Injective)\|one-to-one]] $\color{red}\text{correspondence}$), if it is both [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.28 (Injective)\|injective]] and [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.29 (Surjective)\|surjective]]. We also say that the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.26 (Function)\|function]] is a $\color{red}\text{bijection}$
