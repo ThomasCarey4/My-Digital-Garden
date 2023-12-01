@@ -98,6 +98,6 @@ In **Direct-Mapped Caches** each memory block is assigned to a specific line in 
 </div></div>
 
 
-![Pasted image 20231124122354.png](/img/user/Pasted%20image%2020231124122354.png)
+![Cortex-A57 CPU.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Architecture/Section%2010%20-%20Cache%20Memory/Images/Cortex-A57%20CPU.png)
 - V = [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 10 - Cache Memory/Direct Mapped Cache/Direct Mapped Cache#Valid Bit\|Valid Bit]]
 - D = [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 10 - Cache Memory/Cache Block Replacement Policies#Write-Back Caches\|Dirty Bit]]
