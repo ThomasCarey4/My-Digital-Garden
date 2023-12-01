@@ -7,11 +7,11 @@ $\color{lightgreen}\text{Note that the statement of the}$ [[Leeds University/Com
 $$
 \color{lightgreen} \forall n (P(n)\to Q(n))
 $$
-Where $P(n)$ is $\textquoteleft n \text{ is odd} \textquoteright$, $Q(n)$ is $\textquoteleft n^{2} \text{ is odd} \textquoteright$, and the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]] being integers
+Where $P(n)$ is $\textquoteleft n \text{ is odd} \textquoteright$, $Q(n)$ is $\textquoteleft n^{2} \text{ is odd} \textquoteright$, and the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|domain]] being integers
 
-*Remark:* For proving that something is true $\color{red}\text{for all}$ elements of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]], it is sufficient to prove that the statement is true for an $\color{red}\text{arbitrary}$ element of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]].
-For this we pick a random variable, say, $n$, of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]], and without making any additional assumptions on $n$, we show that $P(n) \to Q(n)$.
-Then, since $n$ could have been any element, we will known that $P(n) \to Q(n)$ is true $\color{red}\text{for all}$ elements of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Set Theory/Sets\|domain]].
+*Remark:* For proving that something is true $\color{red}\text{for all}$ elements of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|domain]], it is sufficient to prove that the statement is true for an $\color{red}\text{arbitrary}$ element of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|domain]].
+For this we pick a random variable, say, $n$, of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|domain]], and without making any additional assumptions on $n$, we show that $P(n) \to Q(n)$.
+Then, since $n$ could have been any element, we will known that $P(n) \to Q(n)$ is true $\color{red}\text{for all}$ elements of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|domain]].
 ###### Proof
 Let $n$ be an arbitrary integer, and assume that $n$ is odd. We have to prove that $n^{2}$ is odd.
 Since $n$ is odd, there exists an integer $k$ such that $n = 2k + 1$. Squaring both sides of the equation, we obtain
