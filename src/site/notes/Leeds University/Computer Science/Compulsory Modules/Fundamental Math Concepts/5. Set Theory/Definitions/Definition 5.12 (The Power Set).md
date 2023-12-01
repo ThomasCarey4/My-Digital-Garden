@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/5-set-theory/definitions/definition-5-12-the-power-set/","tags":["Definition"]}
 ---
 
-The $\color{red}\text{power set}$ of a set $S$ is the set of all subsets of $S$, i.e.
+The $\color{red}\text{power set}$ of a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] $S$ is the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] of all subsets of $S$, i.e.
 $$
 \color{red}
 \mathcal{P}(S) \coloneqq \set{x\ |\ x \subseteq S}
