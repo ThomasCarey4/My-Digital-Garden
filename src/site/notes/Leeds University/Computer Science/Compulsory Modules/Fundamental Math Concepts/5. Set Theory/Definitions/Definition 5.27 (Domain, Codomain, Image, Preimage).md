@@ -39,10 +39,10 @@ Also if $f$ is a [[Leeds University/Computer Science/Compulsory Modules/Fundamen
 >[!example] 
 >What is the **[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.27.1 (Domain, Codomain)\|domain]]**, **[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.27.1 (Domain, Codomain)\|codomain]]** and **[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.27.3 (Range)\|range]]** of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.26 (Function)\|function]] that assigns grades to the students of our module?
 >
->$\color{lightgreen}\text{The domain is the set of students in our module}$
->$\color{lightgreen}\text{The codomain is the set of all possible grades}$
+>$\color{lightgreen}\text{The domain is the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] of students in our module}$
+>$\color{lightgreen}\text{The codomain is the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] of all possible grades}$
 >
->$\color{lightgreen}\text{The range is the set of those grades,}$
+>$\color{lightgreen}\text{The range is the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] of those grades,}$
 >$\color{lightgreen}\text{that have been assigned to at least one student}$
 
 When specifying a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.26 (Function)\|function]], you $\color{red}\text{always}$ need to say
