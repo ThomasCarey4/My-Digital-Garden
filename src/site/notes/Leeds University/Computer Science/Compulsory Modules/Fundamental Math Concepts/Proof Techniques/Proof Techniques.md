@@ -52,7 +52,7 @@ How can we find a contradiction $\color{lightgreen} q$ that might help us prove 
 
 
 
-By $\color{red} \mathbb{N}$ we denote the set of all $\color{red}\text{natural numbers}$ (i.e. $\mathbb{N} \coloneqq \set{0,1,2,3,...}$)
+By $\color{red} \mathbb{N}$ we denote the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] of all $\color{red}\text{natural numbers}$ (i.e. $\mathbb{N} \coloneqq \set{0,1,2,3,...}$)
 
 Let $P(n)$ be a statement about a natural number $n$
 - This is called the $\color{red}\text{induction hypothesis}$
@@ -66,7 +66,7 @@ The aim is to prove that statement $P(n)$ is true **for every** $n \in \mathbb{N
 
 Altogether, this proves that statement $P(n)$ is true $\color{red}\text{for all}$ $n \in \mathbb{N}$
 ##### Strong Induction
-Equivalent to 'normal' induction, however you can assume that every number in the set less than $n$ ( $n_{0} \leq i \leq n$ ) is also true when proving $P(n+1)$
+Equivalent to 'normal' induction, however you can assume that every number in the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] less than $n$ ( $n_{0} \leq i \leq n$ ) is also true when proving $P(n+1)$
 
 
 </div></div>
