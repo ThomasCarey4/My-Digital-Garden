@@ -6,7 +6,7 @@ In [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Conce
 For example.
 
 The truth value of $\color{red} \forall x\ P(x)$, where $P(x)$ is the statement $\color{red} x^{2}<10$
-and the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|domain]] is the set $\color{red} \set{1,2,3,4}$
+and the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|domain]] is the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] $\color{red} \set{1,2,3,4}$
 
 As we know from [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Universal Quantification#Finite Domains\|Finite Domains]]…
 $$
