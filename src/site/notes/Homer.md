@@ -6,17 +6,9 @@ Welcome ☻
 [[Leeds University/Leeds University\|My University]]
 [[Leeds University/Computer Science/Computer Science\|My Degree]]
 
-## Tasks
-```todoist
-name: My Tasks
-filter: "##Leeds"
-sorting: 
-- date
-- priority
-group: true
-```
+
 ## TODO
-| File                                                                                                                                                                                                                                                          | Created     |
+| File                                                                                                                                                                                                                                                          | Modified    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Definitions/Definition 2.30 (Directed Graph)\|Definition 2.30 (Directed Graph)]]                                                                                          | December 03 |
 | [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Predicate Logic\|Predicate Logic]]                                                                                                  | December 01 |
