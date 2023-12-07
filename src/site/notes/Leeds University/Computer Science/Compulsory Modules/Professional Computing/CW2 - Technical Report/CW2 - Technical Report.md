@@ -12,10 +12,19 @@ Report: 934 words~~
 ##### Summary
 
 Artificial Intelligence (AI) can revolutionise the way we manage and conserve energy in our homes. This report explores two different approaches to AI-based Home Energy Management Systems (HEMS) and their impact on energy efficiency and carbon emissions. I analysed both real-world case studies where an AI-controlled heater showed a 14% reduction in energy (Kwon et al., 2022) and an advanced simulation that showed a “reduction in the burden on the legacy grid” (Prakash N. and Vadana D., 2017). The results show that AI-based HEMS are both feasible and efficient; however, they are costly to implement.
+###### Contents
+<br>
 
+- [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/CW2 - Technical Report/CW2 - Technical Report#Introduction\|1. Introduction]] (1)
+- [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/CW2 - Technical Report/CW2 - Technical Report#Review of Existing Research\| 2. Review of Existing Research]] (1)
+	- [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/CW2 - Technical Report/CW2 - Technical Report#AI-HEMS\| 2.1 AI-HEMS]] (1)
+	- [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/CW2 - Technical Report/CW2 - Technical Report#IREMS\|2.2 IREMS]] (1)
+- [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/CW2 - Technical Report/CW2 - Technical Report#Discussion\|3. Discussion]] (2)
+	- [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/CW2 - Technical Report/CW2 - Technical Report#Future Prospects\|3.1 Future Prospects]] (3)
+	- [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/CW2 - Technical Report/CW2 - Technical Report#Conclusion\|3.2 Conclusion]] (3)
+- [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/CW2 - Technical Report/CW2 - Technical Report#References\|4. References]] (4)
+- [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/CW2 - Technical Report/CW2 - Technical Report#Tools Used\|5. Tools Used]] (4)
 ---
-
-# Word Count - 20
 
 ## Introduction
 
@@ -33,7 +42,7 @@ My research found me two important studies where they both developed different a
 
 Kwon et al. (2022) proposed an AI-based HEMS (AI-HEMS) that monitors a house and it’s occupants, such as when they leave, when they sleep and which rooms are currently occupied. The AI-HEMS used this data to intelligently control a heater and through a performance analysis, was found to reduce *absolute* energy consumption by 14%, definitely reducing the carbon footprint. Since the test was carried out without dynamic electricity pricing, assuming that heating bills are calculated in proportion to energy savings, it can be said that there was also an approximate 14% reduction in heating bills (Kwon et al., 2022).
 
-This shows an apparent improvement over Google Nest, the current state-of-the-art AI-thermostat, which saves an average of 10%–12% on heating bills (Google, n.d.). However, the US follows dynamic energy pricing so this cannot be equated to energy savings or a reduction in carbon footprint. Furthermore, after the analysis, a survey found resident satisfaction with AI-HEMS to be approximately 91% (Kwon et al., 2022).
+This shows an apparent improvement over Google Nest, the current state-of-the-art AI-thermostat (Kwon et al., 2022), which saves an average of 10%–12% on heating bills (Google, n.d.). However, the US follows dynamic energy pricing so this cannot be equated to energy savings or a reduction in carbon footprint. Furthermore, after the analysis, a survey found resident satisfaction with AI-HEMS to be approximately 91% (Kwon et al., 2022).
 
 ### IREMS
 
@@ -48,7 +57,7 @@ Prakash N. and Vadana D. (2017) proposed a different system, one they called an 
 { #Table-I}
 
 
-<figcaption>Table I. Decisions</figcaption>
+<figure>Table I. Decisions (Prakash N. and Vadana D., 2017)</figure>
 
 The IREMS was designed for a building with its own source of renewable energy, such as a solar panel, hence the battery. Contrary to the AI-HEMS this system does not directly turn off any devices, only warns the consumer they are using too much energy (Prakash N. and Vadana D., 2017).
 
@@ -63,6 +72,8 @@ These results show that using AI controlled energy management systems are a feas
 While both proposals show promise, I believe they could be combined to provide greater results. For example, in Prakash N. and Vadana D.’s (2017) study they found that an SVM algorithm was more accurate with its decisions than an ANN, which is what Kwon et al. (2022) used. Furthermore, instead of the ‘Message consumer’ decision (Prakash N. and Vadana D., 2017), they could implement the AI-HEMS design and automatically adjust what is using energy to reduce manual intervention (Kwon et al., 2022).
 
 The main barriers to both of these energy management systems (EMS) are the upfront costs. Both require devices in each room, with Kwon et al.’s (2022) requiring various different sensors and Prakash N. and Vadana D.’s (2017) needing controllers as well as source of renewable energy and a battery to store it.
+
+---
 
 ### Future Prospects
 
