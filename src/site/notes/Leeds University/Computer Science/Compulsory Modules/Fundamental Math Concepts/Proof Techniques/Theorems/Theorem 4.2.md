@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/fundamental-math-concepts/proof-techniques/theorems/theorem-4-2/","tags":["Theorem"]}
 ---
 
-*If* $n$ *is an odd integer, then* $n^2$ *is odd.*
+*If* $\color{blue} n$ *is an odd integer, then* $\color{blue} n^2$ *is odd.*
 $\color{lightgreen}\text{Note that the statement of the}$ [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|theorem]] $\color{lightgreen}\text{is of the form}:$
 $$
 \color{lightgreen} \forall n (P(n)\to Q(n))
