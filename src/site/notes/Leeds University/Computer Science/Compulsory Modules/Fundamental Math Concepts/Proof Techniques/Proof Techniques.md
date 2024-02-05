@@ -16,7 +16,7 @@ In a $\color{red}\text{direct proof}$, the statement is proven 'directly', i.e. 
 
 
 
-…often by a chain of implications, leading us from the assumptions of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem]] to its conclusion; or by a chain of equalities or a chain of equivalences 
+…often by a chain of implications, leading us from the assumptions of the [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Proof Techniques/Definitions/Theorem\|Theorem]] to its conclusion; or by a chain of equalities or a chain of equivalences 
 
 </div></div>
 
