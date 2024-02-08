@@ -8,3 +8,4 @@ A literal is a [[Leeds University/Computer Science/Compulsory Modules/Fundamenta
 
 - A literal of the form $\color{blueviolet}\neg{p}$, is called a negative literal
 { #Negative-Literal}
+
