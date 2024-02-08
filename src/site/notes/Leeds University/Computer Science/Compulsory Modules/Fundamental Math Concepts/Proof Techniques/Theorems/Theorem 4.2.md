@@ -19,6 +19,5 @@ $$
 n^{2}=(2k+1)^{2}=4k^{2}+4k+1=2(2k^{2}+2k)+1
 $$
 Hence, $n^{2}$ can be written as $n^{2}=2\ell + 1$, for an integer $ell$, namely, for the integer $\ell = (2k^{2}+2k)$. Thus, by the definition of an odd integer, we can conclude that $n^{2}$ is an odd integer.
-$\color{lightgreen}\text{Note: we started with the assumption ( that }n\text{ is odd ), then made a number}$
-$\color{lightgreen}\text{of logical inferences ( }\textquoteleft\text{Since... we obtain...}\textquoteright\text{, }\textquoteleft\text{Hence...}\textquoteright\ \textquoteleft\text{Thus...}\textquoteright\text{ ), until we}$
+$\color{lightgreen}\text{Note: we started with the assumption ( that }n\text{ is odd ), then made a number}$$\color{lightgreen}\text{of logical inferences ( }\textquoteleft\text{Since... we obtain...}\textquoteright\text{, }\textquoteleft\text{Hence...}\textquoteright\ \textquoteleft\text{Thus...}\textquoteright\text{ ), until we}$
 $\color{lightgreen}\text{arrived at the conclusion}$
