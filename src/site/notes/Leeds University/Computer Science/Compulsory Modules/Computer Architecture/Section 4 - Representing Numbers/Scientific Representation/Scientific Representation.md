@@ -7,14 +7,14 @@ Also called ***Exponential Notation***
 $$
 \begin{align}
 \color{red}+\color{yellow}1\color{orange}.01001
-\color{white}\times\color{green}10^{\color{violet}-\color{blue}101}
+\color{white}\times\color{lavender}10^{\color{blueviolet}-\color{blue}101}
 \end{align}
 $$
 $\color{red}\boxed{O}$ = Sign of the ***Mantissa***
 $\color{yellow}\boxed{O}$ = The ***[[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 4 - Representing Numbers/Definitions/Most Significant Bit\|MSB]]***
 $\color{yellow}\boxed{O}\color{white}+\color{orange}\boxed{O}$ = The ***Mantissa***
-$\color{green}\boxed{O}$ = The *number base* 
-$\color{violet}\boxed{O}$ = Sign of the ***Exponent***
+$\color{lavender}\boxed{O}$ = The *number base* 
+$\color{blueviolet}\boxed{O}$ = Sign of the ***Exponent***
 $\color{blue}\boxed{O}$ = The ***Exponent***
 The decimal point ( or other base ) is called the ***Radix Point***
 
@@ -32,3 +32,4 @@ The advantage of normalisation is that the ***[[Leeds University/Computer Scienc
 All [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 4 - Representing Numbers/Floating Point\|Floating Point]] numbers are *usually* normalised
 
 </div></div>
+
