@@ -34,5 +34,6 @@ A literal is a [[Leeds University/Computer Science/Compulsory Modules/Fundamenta
 - A literal of the form $\color{blueviolet}p$, is also called a positive literal ^Positive-Literal
 - A literal of the form $\color{blueviolet}\neg{p}$, is called a negative literal ^Negative-Literal
 
+
 </div></div>
 
