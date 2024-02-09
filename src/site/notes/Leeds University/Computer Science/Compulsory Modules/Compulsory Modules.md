@@ -4,7 +4,7 @@
 
 - **[[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Computer Architecture\|Computer Architecture]]**
 - **[[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Computer Processors\|Computer Processors]]**
-- **[[Databases\|Databases]]**
+- **[[Leeds University/Computer Science/Compulsory Modules/Databases/Databases\|Databases]]**
 - **[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamental Math Concepts\|Fundamental Math Concepts]]**
 - **[[Leeds University/Computer Science/Compulsory Modules/Discrete Mathematics/Discrete Mathematics\|Discrete Mathematics]]**
 - **[[Object Oriented Programming\|Object Oriented Programming]]**
