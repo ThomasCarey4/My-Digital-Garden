@@ -10,6 +10,7 @@ Welcome ☻
 ## TODO
 | File                                                                                                                                                                                             | Modified          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[Leeds University/Computer Science/Compulsory Modules/Discrete Mathematics/Combinatorics/1.3\|1.3]]                                                                                          | February 19, 2024 |
 | [[Leeds University/Computer Science/Compulsory Modules/Databases/SQL\|SQL]]                                                                                                                   | February 15, 2024 |
 | [[Leeds University/Computer Science/Compulsory Modules/Databases/Relational Data Model/Relational Algebra/Relational Algebra\|Relational Algebra]]                                            | February 09, 2024 |
 | [[Leeds University/Computer Science/Compulsory Modules/Databases/Relational Data Model/Relational Algebra/Cartesian Product\|Cartesian Product]]                                              | February 09, 2024 |
@@ -19,6 +20,5 @@ Welcome ☻
 | [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/Week 2.2 - Hardware/Week 2.2 - Hardware\|Week 2.2 - Hardware]]                                                  | December 24       |
 | [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/Week 2.2 - Hardware/Early Computing\|Early Computing]]                                                          | December 24       |
 | [[Leeds University/Computer Science/Compulsory Modules/Professional Computing/Week 2.1 - Age of Computing/Week 2.1 - Age of Computing\|Week 2.1 - Age of Computing]]                          | December 24       |
-| [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Vector Space\|Vector Space]]                                                                                 | December 24       |
 
 { .block-language-dataview}
