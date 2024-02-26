@@ -79,12 +79,34 @@ So by $\color{lightgreen} PHP$ $\exists$ two people with the same name
 
 **Generalised Pigeonhole Principle**: If $n$ pigeons fly into $k$ pigeonholes, then some pigeonholes contains at least $\lceil\frac{n}{k}\rceil$ (Ceiling, i.e. rounded up) pigeons
 *Proof by Contradiction*
+$\neg(\textrm{There exists a pigeonhole contains} \geq \lceil\frac{n}{k}\rceil\textrm{ Pigeons})$
+$=\textrm{Every pigeonhole contains}\leq \lceil\frac{n}{k}\rceil-1\textrm{ Pigeons}$
+$\therefore \textrm{\# of pigeons}\leq(\lceil\frac{n}{k}\rceil-1)\times k$
+$<(\frac{n}{k}+1-1)\times k=\frac{n}{k}\times k=\color{lightgreen} n$
+
+
+
 $\neg(\textrm{Some pigeonhole contains} \geq \lceil\frac{n}{k}\rceil\textrm{ Pigeons})$
 $=\textrm{Every pigeonhole contains}< \lceil\frac{n}{k}\rceil\textrm{ Pigeons}$
 $\therefore$ # of pigeons $< \lceil\frac{n}{k}\rceil \times k$
 $\leq(\frac{n}{k}+1)k$
 $= \frac{n}{k}k+k=n+k$
 ---
-$n$ = # of Pigeons $\leq (\lceil\frac{n}{k}\rceil-1)k$
-$<(\frac{n}{k}-1+1)k$
-#TODO finsih
+*Among 100 people there are at least $\color{blue} \lceil\frac{100}{12}\rceil=9$ who were born in the same month*
+
+$\color{lightgreen} k\coloneqq$ 12 months = Pigeonholes
+$\color{lightgreen} n \coloneqq$ 100 people = Pigeons
+
+*GPHP* : Some **pigeonhole** months contain $\geq\lceil\frac{100}{12}\rceil=9$
+***At least 9 people were born in the same month***
+
+---
+*What is the minimum number of students required in a discrete mathematics class to be sure that at least 6 will receive the same grade, if there are 5 possible grades, **A**, **B**, **C**, **D**, and **F***
+
+5 grades => Pigeonholes
+n students => pigeons
+
+By *GPHP* at least $\lceil\frac{n}{5}\rceil$ pigeons are in the pigeon holes
+$\lceil\frac{n}{5}\rceil=6$
+$\therefore n=5\times5+1$
+$\lceil\frac{n}{5}\rceil=\lceil\frac{26}{5}\rceil=6$
