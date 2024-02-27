@@ -7,7 +7,7 @@ Utilises the stored program concept - First published in 1945 by John von Neuman
 Completed in 1952, the IAS computer is the prototype for all subsequent general-purpose computers
 ### Structure
 - Main memory - for storing programs alongside data
-- An Arithmetic and Logic Unit (ALU) - capable of operating on binary data
+- An Arithmetic and Logic Unit ([[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Arithmetic Logic Unit\|ALU]]) - capable of operating on binary data
 - A Control Unit - interprets instruction in memory and executes them
 - Input and Output - operated by the control unit
 #### Design
