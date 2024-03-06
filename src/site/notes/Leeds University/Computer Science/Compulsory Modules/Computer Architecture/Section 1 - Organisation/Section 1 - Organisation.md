@@ -40,7 +40,7 @@ The computer is constructed of:
 This is all interfaced via a "Systems Interconnection"
 #### CPU
 The CPU is constructed of:
-- Registers
+- [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Registers]]
 - an Arithmetic and Logic Unit
 - and a Control Unit
 This is all interfaced via the "Internal CPU Interconnection"
@@ -48,7 +48,7 @@ This is all interfaced via the "Internal CPU Interconnection"
 The Control Unit is composed of:
 - Sequencing Logic
 - and Control Memory
-Interfaced together through the "Control Unit Registers and Decoders"
+Interfaced together through the "Control Unit [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Registers]] and Decoders"
 
 ## Summary
 - Some parts of the computer are visible to the programmer, some are not
