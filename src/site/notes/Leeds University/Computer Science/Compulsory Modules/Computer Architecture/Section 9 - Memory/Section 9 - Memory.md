@@ -25,5 +25,5 @@ In general:
 	- It is favoured for large memory requirements
 	  **e.g.** main memory
 - [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Static RAM\|SRAM]] is faster but takes more space
-	- It is favoured for cache memory and CPU registers
+	- It is favoured for cache memory and CPU [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|registers]]
 	- Users typically cannot replace [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Static RAM\|SRAM]]
