@@ -3,23 +3,23 @@
 ---
 
 #TODO He do be skipping like half the slides lol
-### Registers
+### [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Registers]]
 - The CPU must have some working space
     ( temporary storage )
-- This space is called a **register**
+- This space is called a **[[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|register]]**
 - The number and function vary between processor designs
 - This is one of the major design decisions
 - Top level of memory hierarchy
-#### Control and Status Registers
+#### Control and Status [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Registers]]
 - *PC*
 	- Program Counter
 - *IR*
-	- Instruction Register
+	- Instruction [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Register]]
 - *MAR*
-	- Memory Address Register
+	- Memory Address [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Register]]
 - *MBR*
-	- Memory Buffer Register
-#### General Purpose Registers
+	- Memory Buffer [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Register]]
+#### General Purpose [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Registers]]
 - May be true general purpose
 - May be restricted
 - May be used for data or addressing
@@ -27,15 +27,15 @@
 	- Accumulator
 - Addressing
 	- Address of a base of a Segment
-##### How Many GP Registers?
+##### How Many GP [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Registers]]?
 - Between 8-32
 - Fewer = More memory references
 - How big?
 	- Large enough to hold a full address
 	- Large enough to hold a full [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Machine Word\|Machine Word]]
-- Often possible to use two data registers for one [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Machine Word\|Machine Word]]/address
-#### Program Status [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Machine Word\|Machine Word]] Register
-- The *PSW* is a special register that contains status information
+- Often possible to use two data [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|registers]] for one [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Machine Word\|Machine Word]]/address
+#### Program Status [[Leeds University/Computer Science/Compulsory Modules/Computer Architecture/Section 9 - Memory/Definitions/Machine Word\|Machine Word]] [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Register]]
+- The *PSW* is a special [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|register]] that contains status information
 - This typical includes **condition codes** such as:
 	- Zero ( When the result is zero )
 	- Carry
@@ -84,5 +84,5 @@ In general, the **fetch** consists of
 - Have two pipelines
 - Prefetch each branch into separate pipeline
 - Use appropriate pipeline
-- Leads to bus and register contention
+- Leads to bus and [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|register]] contention
 - Multiple branches lead to further pipelines being needed
