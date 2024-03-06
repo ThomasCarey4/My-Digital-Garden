@@ -16,7 +16,7 @@
 - The ***Program Counter*** ( *PC* ) Holds the address of the next instruction to fetch
 - The processor fetches the instruction from the memory location pointed to by the *PC*
 - The *PC* is incremented ( unless told otherwise )
-- The instruction is loaded into the ***instruction register*** ( *IR* )
+- The instruction is loaded into the ***instruction [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|register]]*** ( *IR* )
 - The processor interprets the instruction and, using the 
   ***accumulator*** ( *AC* ), performs the required actions
 ### Execute Cycle
