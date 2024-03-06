@@ -4,7 +4,7 @@
 
 #TODO i missed half of it
 #TODO Truth tables
-#### Shift Registers (Serial IN $\rightarrow$ Serial OUT)
+#### Shift [[Leeds University/Computer Science/Compulsory Modules/Computer Processors/Registers\|Registers]] (Serial IN $\rightarrow$ Serial OUT)
 ![Shift Register.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Processors/images/Shift%20Register.png)
 FF = Flip Flop
 #### Serial IN $\rightarrow$ Parallel OUT (SIPO)
