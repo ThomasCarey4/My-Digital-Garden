@@ -56,7 +56,7 @@ A statement of the form $P(x_{1},x_{2},...,x_{n})$ is the value of the [[Leeds U
 | :-- | :-- | :-- | :-- |
 | [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Universal Quantification\|Universal]] | $\forall x\ P(x)$ | $P(x)$ is true for every $x$ | There is an $x$ for which $P(x)$ is false |
 | [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Quantification/Existential Quantification\|Existential]] | $\exists x\ P(x)$ | There is an $x$ for which $P(x)$ is true | $P(x)$ is false for every $x$ |
-#### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/De Morgan's Laws\|De Morgan's Laws]] for Quantifiers
+#### [[De Morgan's Laws\|De Morgan's Laws]] for Quantifiers
 |Type | [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Negation\|Negation]] | Equivalent | When is [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/Connectives/Negation\|negation]] true? | When false? |
 | :-: | :-: | :-: | :-: | :-: |
 |[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Negating Quantification/Negating an Existential Quantification\|Existential]]|$\neg{\exists x\ P(x)}$|$\forall x\ \neg{P(x)}$| For every $x$, $P(x)$ is false | There is an $x$ for which $P(x)$ is true |
