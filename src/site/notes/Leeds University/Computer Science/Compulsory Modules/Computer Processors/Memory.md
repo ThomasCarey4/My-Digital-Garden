@@ -26,5 +26,5 @@ $D_{1}=(Q_{0} \land \neg{Q_{1}}) \lor (\neg{Q_{0}}\land Q_{1})$
 $D_{2}=(\neg{Q_{1}}\land Q_{2})\lor(\neg{Q_{0}}\land Q_{2})\lor(Q_{0}\land Q_{1} \land \neg{Q_2})$
 $\ \ \ \ \ =((\neg{Q_{0}}\lor \neg Q_{1})\land Q_{2}) \lor (Q_{0}\land Q_{1}\land \neg{Q_{2}})$
 $D_{3}=((\neg{Q_{0}}\lor\neg{Q_{1}}\lor\neg{Q_{2}})\land Q_{2})\lor(Q_{0} \land Q_{1} \land Q_{2} \land \neg{Q_{3}})$
-![Counter Diagram?.png](/img/user/Leeds%20University/Computer%20Science/Compulsory%20Modules/Computer%20Processors/images/Counter%20Diagram?.png)
+![[Counter Diagram?.png\|Counter Diagram?.png]]
 wtf is going on
