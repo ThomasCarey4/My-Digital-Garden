@@ -19,7 +19,7 @@ $$ p \land ( q \lor r ) \equiv ( p \land q ) \lor ( p \land r ) $$
 $$ p \lor ( q \land r ) \equiv ( p \lor q ) \land ( p \lor r ) $$
 ##### Double Negation
 $$ \neg \neg p \equiv p $$
-##### [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Propositional Logic/De Morgan's Laws\|De Morgan's Laws]]
+##### [[De Morgan's Laws\|De Morgan's Laws]]
 $$ \neg ( p \land q ) \equiv ( \neg p \lor \neg q ) $$
 $$ \neg ( p \lor q ) \equiv ( \neg p \land \neg q ) $$
 ##### Tertium Non Datur
