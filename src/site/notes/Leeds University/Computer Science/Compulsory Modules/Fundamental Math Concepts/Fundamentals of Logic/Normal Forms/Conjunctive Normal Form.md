@@ -9,4 +9,4 @@ $$
 Where $n, m_1,...,m_{n}\in\mathbb{N}_{>0}$ and $\ell_{i,j}$ is a [[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Literal\|literal]]
 ( for every $i\in\{1,...,n\},j\in\{1,...,m_{i}\}$ )
 
-The sub-[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formulas]] $\bigvee^{m_i}_{j=1}\ell_{i,j}$ ( for $i\in\{1,...,n\}$ ) are called <span style="color:#f38ba8">Disjunctive Clauses</span>.
+The sub-[[Leeds University/Computer Science/Compulsory Modules/Fundamental Math Concepts/Fundamentals of Logic/Definitions/Formula\|formulas]] $\bigvee^{m_i}_{j=1}\ell_{i,j}$ ( for $i\in\{1,...,n\}$ ) are called <span style="color:#f38ba8">Disjunctive Clauses</span>. 
