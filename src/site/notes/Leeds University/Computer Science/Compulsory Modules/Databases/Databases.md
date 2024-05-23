@@ -7,6 +7,9 @@
 - **[[Leeds University/Computer Science/Compulsory Modules/Databases/2. Database Environment & Architecture/2. Database Environment & Architecture\|2. Database Environment & Architecture]]**
 - **[[Leeds University/Computer Science/Compulsory Modules/Databases/3. Relational Data Model/3. Relational Data Model\|3. Relational Data Model]]**
 - **[[Leeds University/Computer Science/Compulsory Modules/Databases/4. Relational Algebra/4. Relational Algebra\|4. Relational Algebra]]**
+- **[[Leeds University/Computer Science/Compulsory Modules/Databases/5. Entity-Relationship Modelling/5. Entity-Relationship Modelling\|5. Entity-Relationship Modelling]]**
+- **[[Leeds University/Computer Science/Compulsory Modules/Databases/6. Logical Database Design/6. Logical Database Design\|6. Logical Database Design]]**
+- **[[Leeds University/Computer Science/Compulsory Modules/Databases/7. Normalisation/7. Normalisation\|7. Normalisation]]**
 - **old**
 	- [[Leeds University/Computer Science/Compulsory Modules/Databases/old/Attributes\|Attributes]]
 	- [[Leeds University/Computer Science/Compulsory Modules/Databases/old/Entity\|Entity]]
