@@ -10,6 +10,8 @@
 - **[[Leeds University/Computer Science/Compulsory Modules/Databases/5. Entity-Relationship Modelling/5. Entity-Relationship Modelling\|5. Entity-Relationship Modelling]]**
 - **[[Leeds University/Computer Science/Compulsory Modules/Databases/6. Logical Database Design/6. Logical Database Design\|6. Logical Database Design]]**
 - **[[Leeds University/Computer Science/Compulsory Modules/Databases/7. Normalisation/7. Normalisation\|7. Normalisation]]**
+- **[[Leeds University/Computer Science/Compulsory Modules/Databases/8. Database Security and Administration/8. Database Security and Administration\|8. Database Security and Administration]]**
+- **[[Leeds University/Computer Science/Compulsory Modules/Databases/9. Transaction Management/9. Transaction Management\|9. Transaction Management]]**
 - **old**
 	- [[Leeds University/Computer Science/Compulsory Modules/Databases/old/Attributes\|Attributes]]
 	- [[Leeds University/Computer Science/Compulsory Modules/Databases/old/Entity\|Entity]]
