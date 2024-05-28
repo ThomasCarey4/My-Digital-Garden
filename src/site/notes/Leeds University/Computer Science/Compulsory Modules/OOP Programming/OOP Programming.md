@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/oop-programming/oop-programming/"}
+{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/oop-programming/oop-programming/","tags":["Mandatory-Module"]}
 ---
 
 >[!info] 
