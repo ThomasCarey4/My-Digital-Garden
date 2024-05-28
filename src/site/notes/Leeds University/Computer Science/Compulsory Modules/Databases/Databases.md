@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/databases/databases/"}
+{"dg-publish":true,"permalink":"/leeds-university/computer-science/compulsory-modules/databases/databases/","tags":["Mandatory-Module"]}
 ---
 
 
@@ -12,15 +12,7 @@
 - **[[Leeds University/Computer Science/Compulsory Modules/Databases/7. Normalisation/7. Normalisation\|7. Normalisation]]**
 - **[[Leeds University/Computer Science/Compulsory Modules/Databases/8. Database Security and Administration/8. Database Security and Administration\|8. Database Security and Administration]]**
 - **[[Leeds University/Computer Science/Compulsory Modules/Databases/9. Transaction Management/9. Transaction Management\|9. Transaction Management]]**
-- **old**
-	- [[Leeds University/Computer Science/Compulsory Modules/Databases/old/Attributes\|Attributes]]
-	- [[Leeds University/Computer Science/Compulsory Modules/Databases/old/Entity\|Entity]]
-	- **images**
-
-	- [[Leeds University/Computer Science/Compulsory Modules/Databases/old/Keys\|Keys]]
-	- [[Leeds University/Computer Science/Compulsory Modules/Databases/old/Notation\|Notation]]
-	- [[Leeds University/Computer Science/Compulsory Modules/Databases/old/Physical DB Design\|Physical DB Design]]
-	- **[[Leeds University/Computer Science/Compulsory Modules/Databases/old/Relational Data Model/Relational Data Model\|Relational Data Model]]**
-	- [[Leeds University/Computer Science/Compulsory Modules/Databases/old/SQL\|SQL]]
+- **[[Leeds University/Computer Science/Compulsory Modules/Databases/10. Ethics/10. Ethics\|10. Ethics]]**
+- [[Leeds University/Computer Science/Compulsory Modules/Databases/Combined\|Combined]]
 
 
