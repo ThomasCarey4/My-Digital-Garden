@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/leeds-university/computer-science/year-1/discrete-mathematics/3-graph-theory/definitions/def-induced-subgraph/","tags":["Definition"]}
+---
+
+A graph $H$ is an *induced [[Leeds University/Computer Science/Year 1/Discrete Mathematics/3. Graph Theory/Definitions/Def. Subgraph\|subgraph]]* of a graph $G$, if $H$ is a [[Leeds University/Computer Science/Year 1/Discrete Mathematics/3. Graph Theory/Definitions/Def. Subgraph\|subgraph]] of $G$ such that every edge of $G$ with both endnodes in ${\color{mauve} V}(H)$ is also an edge of $H$ (A [[Leeds University/Computer Science/Year 1/Discrete Mathematics/3. Graph Theory/Definitions/Def. Subgraph\|subgraph]] but the edges aren’t changed, just less vertices). We say that $H$ is the [[Leeds University/Computer Science/Year 1/Discrete Mathematics/3. Graph Theory/Definitions/Def. Subgraph\|subgraph]] of $G$ induced by the node [[Leeds University/Computer Science/Year 1/Fundamental Math Concepts/5. Set Theory/5.1 Sets\|set]] ${\color{mauve} V}(H)$
