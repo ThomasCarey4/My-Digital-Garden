@@ -2,7 +2,5 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/computer-science/"}
 ---
 
-- **[[Compulsory Modules\|Compulsory Modules]]**
-- **[[Optional Modules\|Optional Modules]]**
-{ #6206f7}
-
+- [[Leeds University/Computer Science/Year 1/Year 1\|Year 1]]
+- [[Leeds University/Computer Science/Year 2/Year 2\|Year 2]]

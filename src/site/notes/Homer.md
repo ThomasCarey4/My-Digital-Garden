@@ -7,18 +7,33 @@ Welcome ☻
 [[Leeds University/Computer Science/Computer Science\|My Degree]]
 
 
+# Operating Systems
+
+    - [ ] #Read Chapter 1 OSC. Chapter 1 XV6 [due:: 2024-10-03]
+    - [ ] #Read Chapter 2 OSC. Chapter 2 XV6 [due:: 2024-10-06]
+    - [ ] #Read Chapter 3 OSC [due:: 2024-10-13]
+    - [ ] #Read Reread Chapters 1-2 XV6 [due:: 2024-10-20]
+    - [ ] #Read Reread Chapters 1-3 OSC [due:: 2024-10-27]
+    - [ ] #Read Chapter 4 OSC [due:: 2024-11-03]
+    - [ ] #Read Chapter 5 OSC [due:: 2024-11-10]
+    - [ ] #Read Chapter 6 OSC [due:: 2024-11-17]
+    - [ ] #Read Chapters 9-10 OSC. Chapter 3 XV6 [due:: 2024-11-24]
+    - [ ] #Read Reread Chapters 4-6 OSC [due:: 2024-12-01]
+    - [ ] #Read Reread Chapters 9-10 OSC [due:: 2024-12-08]
+
+{ .block-language-dataview}
 ## TODO
-| File                                                                                                                                                                                              | Modified           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[Leeds University/Computer Science/Year 1/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Predicate Logic\|Predicate Logic]]                                                  | September 29, 2024 |
-| [[Leeds University/Computer Science/Year 1/Computer Architecture/Section 8 - CPU Structure and Pipelining/Section 8 - CPU Structure and Pipelining\|Section 8 - CPU Structure and Pipelining]] | September 29, 2024 |
-| [[Leeds University/Computer Science/Year 1/Computer Architecture/Section 17 - The System Bus/Section 17 - The System Bus\|Section 17 - The System Bus]]                                        | September 29, 2024 |
-| [[Leeds University/Computer Science/Year 1/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.5 (Subsets and Supersets)\|Definition 5.5 (Subsets and Supersets)]]                | May 28, 2024       |
-| [[Leeds University/Computer Science/Year 1/Computer Processors/Memory\|Memory]]                                                                                                                | March 06, 2024     |
-| [[Leeds University/Computer Science/Year 1/Computer Architecture/Section 1 - Organisation/Section 1 - Organisation\|Section 1 - Organisation]]                                                 | March 06, 2024     |
-| [[Leeds University/Computer Science/Year 1/Professional Computing/Week 3.1 - Networks and Software/Early Networks\|Early Networks]]                                                            | December 24        |
-| [[Leeds University/Computer Science/Year 1/Professional Computing/Week 3.1 - Networks and Software/Early History of the Internet and Web\|Early History of the Internet and Web]]              | December 24        |
-| [[Leeds University/Computer Science/Year 1/Professional Computing/Week 2.2 - Hardware/Week 2.2 - Hardware\|Week 2.2 - Hardware]]                                                               | December 24        |
-| [[Leeds University/Computer Science/Year 1/Professional Computing/Week 2.2 - Hardware/Early Computing\|Early Computing]]                                                                       | December 24        |
+| File                                                                                                                                                                                                                                              | Modified           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[Leeds University/Computer Science/Year 1/Computer Architecture/Section 8 - CPU Structure and Pipelining/Section 8 - CPU Structure and Pipelining\|Section 8 - CPU Structure and Pipelining]]                                                 | September 29, 2024 |
+| [[Leeds University/Computer Science/Year 1/Computer Architecture/Section 17 - The System Bus/Section 17 - The System Bus\|Section 17 - The System Bus]]                                                                                        | September 29, 2024 |
+| [[Leeds University/Computer Science/Year 1/Fundamental Math Concepts/Fundamentals of Logic/Predicate Logic/Predicate Logic\|Predicate Logic]]                                                                                                  | September 29, 2024 |
+| [[Leeds University/Computer Science/Year 1/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.5 (Subsets and Supersets)\|Definition 5.5 (Subsets and Supersets)]]                                                                | May 28, 2024       |
+| [[Leeds University/Computer Science/Year 1/Computer Processors/Memory\|Memory]]                                                                                                                                                                | March 06, 2024     |
+| [[Leeds University/Computer Science/Year 1/Computer Architecture/Section 1 - Organisation/Section 1 - Organisation\|Section 1 - Organisation]]                                                                                                 | March 06, 2024     |
+| [[Leeds University/Computer Science/Year 1/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.14 (Pairs and Tuples)\|Definition 5.14 (Pairs and Tuples)]]                                                                        | December 24        |
+| [[Leeds University/Computer Science/Year 1/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Section 11 - Operating System Support and Virtual Memory\|Section 11 - Operating System Support and Virtual Memory]] | December 24        |
+| [[Leeds University/Computer Science/Year 1/Computer Architecture/Section 11 - Operating System Support and Virtual Memory/Page Table/Page Table\|Page Table]]                                                                                  | December 24        |
+| [[Leeds University/Computer Science/Year 1/Fundamental Math Concepts/5. Set Theory/Definitions/Definition 5.25 (Relations)\|Definition 5.25 (Relations)]]                                                                                      | December 24        |
 
 { .block-language-dataview}
