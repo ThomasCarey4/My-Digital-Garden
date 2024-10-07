@@ -3,8 +3,7 @@
 ---
 
 
-
-- [[Leeds University/Computer Science/Year 2/Algorithms 1\|Algorithms 1]]
+- **[[Leeds University/Computer Science/Year 2/Algorithms 1/Algorithms 1\|Algorithms 1]]**
 - [[Leeds University/Computer Science/Year 2/Algorithms 2\|Algorithms 2]]
 - [[Leeds University/Computer Science/Year 2/Artificial Intelligence\|Artificial Intelligence]]
 - [[Leeds University/Computer Science/Year 2/Data Mining\|Data Mining]]
