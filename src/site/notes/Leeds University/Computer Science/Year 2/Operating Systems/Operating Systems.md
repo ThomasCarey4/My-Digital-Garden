@@ -13,3 +13,14 @@
 - [ ] #Read Chapters 9-10 OSC. Chapter 3 XV6 [due:: 2024-11-24]
 - [ ] #Read Reread Chapters 4-6 OSC [due:: 2024-12-01]
 - [ ] #Read Reread Chapters 9-10 OSC [due:: 2024-12-08]
+
+
+- **[[Leeds University/Computer Science/Year 2/Operating Systems/1. Introduction to OS/1. Introduction to OS\|1. Introduction to OS]]**
+- **[[Leeds University/Computer Science/Year 2/Operating Systems/2. OS Services/2. OS Services\|2. OS Services]]**
+- **3. Processes**
+- **4. Xv6**
+- **5. Threads and Concurrency**
+- **6. Scheduling**
+- **7. Memory Management**
+
+
