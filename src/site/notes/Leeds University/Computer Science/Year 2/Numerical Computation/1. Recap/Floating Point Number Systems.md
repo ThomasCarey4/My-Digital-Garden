@@ -26,3 +26,6 @@ The IEEE *single precision standard* is $(\beta,t,L,U)=(2,23,-127,128)$
 ```{python} numpy.single```
 The IEEE *double precision standard* is $(\beta,t,L,U)=(2,52,-1023,1024)$
 ```{python} numpy.double```
+
+#TODO Relative errors
+
