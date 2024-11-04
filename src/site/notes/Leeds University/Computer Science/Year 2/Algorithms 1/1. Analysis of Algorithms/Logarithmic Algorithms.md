@@ -30,4 +30,3 @@ The algorithm stops after iteration $k$ when $i$ reaches $n/2^{k},n/2^{k}\leq 1$
 >Assume $2^{k-1}<n\leq 2^{k}$
 >This implies $k=\lceil\log_{2}n\rceil$
 
-

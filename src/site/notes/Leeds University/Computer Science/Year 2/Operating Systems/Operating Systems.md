@@ -18,6 +18,8 @@
 - **[[Leeds University/Computer Science/Year 2/Operating Systems/1. Introduction to OS/1. Introduction to OS\|1. Introduction to OS]]**
 - **[[Leeds University/Computer Science/Year 2/Operating Systems/2. OS Services/2. OS Services\|2. OS Services]]**
 - **3. Processes**
+	- [[Leeds University/Computer Science/Year 2/Operating Systems/3. Processes/CPU Scheduler\|CPU Scheduler]]
+	- [[Leeds University/Computer Science/Year 2/Operating Systems/3. Processes/Process Scheduling\|Process Scheduling]]
 - **4. Xv6**
 - **5. Threads and Concurrency**
 - **6. Scheduling**
