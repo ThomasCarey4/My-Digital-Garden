@@ -11,7 +11,7 @@
 - [[Leeds University/Computer Science/Year 2/Networks\|Networks]]
 - **[[Leeds University/Computer Science/Year 2/Numerical Computation/Numerical Computation\|Numerical Computation]]**
 - **[[Leeds University/Computer Science/Year 2/Operating Systems/Operating Systems\|Operating Systems]]**
-- [[Leeds University/Computer Science/Year 2/Software Eng Principles\|Software Eng Principles]]
+- **[[Leeds University/Computer Science/Year 2/Software Eng Principles/Software Eng Principles\|Software Eng Principles]]**
 - [[Leeds University/Computer Science/Year 2/Software Engineering Project\|Software Engineering Project]]
 - [[Leeds University/Computer Science/Year 2/User Interfaces\|User Interfaces]]
 - **[[Leeds University/Computer Science/Year 2/Web Application Development/Web Application Development\|Web Application Development]]**

@@ -9,6 +9,10 @@
 - **2. Searching Algorithms**
 - **3. Sorting Algorithms**
 - **4. Basic Data Structures**
+- [[Leeds University/Computer Science/Year 2/Algorithms 1/Cwk1 Work\|Cwk1 Work]]
+- [[Leeds University/Computer Science/Year 2/Algorithms 1/Cwk2 Mermaid 2\|Cwk2 Mermaid 2]]
+- [[Leeds University/Computer Science/Year 2/Algorithms 1/Cwk2 Mermaid\|Cwk2 Mermaid]]
+- [[Leeds University/Computer Science/Year 2/Algorithms 1/Cwk2 Work\|Cwk2 Work]]
 - **images**
 
 

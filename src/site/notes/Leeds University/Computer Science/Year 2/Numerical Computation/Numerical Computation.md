@@ -11,5 +11,7 @@
 - **5. Special Topics**
 - **Portfolio**
 	- [[Leeds University/Computer Science/Year 2/Numerical Computation/Portfolio/Section 3\|Section 3]]
+	- [[Leeds University/Computer Science/Year 2/Numerical Computation/Portfolio/Section 4\|Section 4]]
+	- [[Leeds University/Computer Science/Year 2/Numerical Computation/Portfolio/Section 6\|Section 6]]
 
 
