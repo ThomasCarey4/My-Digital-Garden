@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/leeds-university/computer-science/year-1/computer-architecture/section-17-the-system-bus/section-17-the-system-bus/"}
 ---
 
-1. 
 2. CPU puts *“Keyboard: did the user type anything?”*
-3. w
-4. 4
 5. The keyboard then writes *“CPU: Yes, user type **A**”*
 6. At some point the CPU reads the bus and…
 
@@ -47,4 +44,3 @@ Different modules may want to use the bus at the same time!
 ###### Bus Timing
 Timing (or clocking) refers to the coordination of events on the bus:
 - With **synchronous timing** the occurrence of events
-#TODO never mind the cunt got rid of it

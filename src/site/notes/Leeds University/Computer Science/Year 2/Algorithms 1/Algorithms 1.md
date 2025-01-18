@@ -15,4 +15,9 @@
 - [[Leeds University/Computer Science/Year 2/Algorithms 1/Cwk2 Work\|Cwk2 Work]]
 - **images**
 
+- **Revision**
+	- [[Leeds University/Computer Science/Year 2/Algorithms 1/Revision/Data Structures\|Data Structures]]
+	- **images**
+
+	- [[Leeds University/Computer Science/Year 2/Algorithms 1/Revision/Sorting\|Sorting]]
 
