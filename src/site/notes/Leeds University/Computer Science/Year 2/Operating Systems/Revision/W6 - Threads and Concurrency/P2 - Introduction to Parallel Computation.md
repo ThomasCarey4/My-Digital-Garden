@@ -44,5 +44,18 @@ $$\boxed{\begin{array}{c}\textbf{Data Parallelism}\text{ (top) and }\textbf{Task
 
 **Task Parallelism**: Distribute different tasks (operations) across multiple cores. Each task may require part or the whole of the input data
 $$\boxed{\begin{array}{c}\text{In practice you may likely see a hybrid apporach}\end{array}}$$
-Page 24!
-[Here!](file:///home/tcarey/Downloads/slides-2.pdf)
+### Amdahl’s Law
+Amdahl’s Law calculates the *upper bound* of the speedup when assigning more cores to an application that contains both **serial** *and* **parallel** parts!
+$$
+\large speedup\leq\frac{1}{{\color{orange} S}+\frac{1-{\color{orange} S}}{{\color{red} N}}}
+$$
+where ${\color{red} N}$ is the number of cores, ${\color{orange} S}$ is the portion of the application that must be performed serially.
+
+>[!example] 
+>${\color{orange} S}=0.25$ (25% of the application is serial $\therefore$ 75% is parallel)
+>When ${\color{red} N}=2$ (2 cores), the speedup is no greater than $1.6\times$
+>
+>If ${\color{red} N}=4$ (4 cores), the upper bound on the speedup is $2.28\times$
+>(not $4\times$!)
+
+<canvas height="0" width="0" style="display: block; box-sizing: border-box; height: 0px; width: 0px;"></canvas>

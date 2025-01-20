@@ -24,5 +24,15 @@
 - **W6 - Threads and Concurrency**
 	- [[Leeds University/Computer Science/Year 2/Operating Systems/Revision/W6 - Threads and Concurrency/P1 - The Concept of Threads\|P1 - The Concept of Threads]]
 	- [[Leeds University/Computer Science/Year 2/Operating Systems/Revision/W6 - Threads and Concurrency/P2 - Introduction to Parallel Computation\|P2 - Introduction to Parallel Computation]]
+	- [[Leeds University/Computer Science/Year 2/Operating Systems/Revision/W6 - Threads and Concurrency/P3 - Libraries for Multithreading\|P3 - Libraries for Multithreading]]
+	- [[Leeds University/Computer Science/Year 2/Operating Systems/Revision/W6 - Threads and Concurrency/P4 - Threading Issues\|P4 - Threading Issues]]
+- **W7 - Scheduling**
+	- **images**
+
+	- [[Leeds University/Computer Science/Year 2/Operating Systems/Revision/W7 - Scheduling/P2 - Introduction to Process Scheduling\|P2 - Introduction to Process Scheduling]]
+	- [[Leeds University/Computer Science/Year 2/Operating Systems/Revision/W7 - Scheduling/P3 - Scheduling Algorithms\|P3 - Scheduling Algorithms]]
+	- [[Leeds University/Computer Science/Year 2/Operating Systems/Revision/W7 - Scheduling/P4 - Optimisations of Process Scheduling\|P4 - Optimisations of Process Scheduling]]
+	- [[Leeds University/Computer Science/Year 2/Operating Systems/Revision/W7 - Scheduling/P5 - Remarks on Multi-Processor Scheduling\|P5 - Remarks on Multi-Processor Scheduling]]
+	- [[Leeds University/Computer Science/Year 2/Operating Systems/Revision/W7 - Scheduling/P6 - Scheduling with Deadlines; Real-Time Processing\|P6 - Scheduling with Deadlines; Real-Time Processing]]
 
 

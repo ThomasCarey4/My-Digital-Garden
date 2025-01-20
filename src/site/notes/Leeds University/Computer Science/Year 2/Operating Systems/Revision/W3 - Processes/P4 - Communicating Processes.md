@@ -18,8 +18,7 @@ $$\boxed{\begin{array}{c}\text{When processes cooperate, they require }\\ \textb
 There are two fundamental concepts:
 - **Shared-memory model**: They agree on a region of memory to share among cooperating processes. They read/write there to exchange info
 - **Message-passing model**: They use a message-passing protocol to send and receive information
-	- Likes `.fifo` pipes!
-	- or `|` pipes!
+
 Both are implemented in the Operating System
 
 The message-passing model is useful when no conflict resolution is desired.
