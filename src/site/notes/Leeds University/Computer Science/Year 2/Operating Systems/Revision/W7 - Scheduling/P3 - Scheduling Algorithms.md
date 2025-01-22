@@ -4,11 +4,11 @@
 
 
 ### First-Come, First-Served (FCFS) Scheduling
-![Pasted image 20250120212427.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/W7%20-%20Scheduling/images/Pasted%20image%2020250120212427.png)
+![Pasted image 20250120212427.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/images/Pasted%20image%2020250120212427.png)
 If a process arrive in a sequence we have the following schedule:
-![Pasted image 20250120212915.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/W7%20-%20Scheduling/images/Pasted%20image%2020250120212915.png)
+![Pasted image 20250120212915.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/images/Pasted%20image%2020250120212915.png)
 Obviously, this is crap and a better sequence would be if (assuming $P_{2}$ and $P_{3}$ don’t depend on $P_{1}$):
-![Pasted image 20250120212934.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/W7%20-%20Scheduling/images/Pasted%20image%2020250120212934.png)
+![Pasted image 20250120212934.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/images/Pasted%20image%2020250120212934.png)
 >[!warning] Issue with FCFS
 >**Convoy effect**—short jobs can be held waiting by long jobs.
 
@@ -21,7 +21,7 @@ Note that **FCFS is nonpreemptive** (**Not** able to be interrupted)
 
 - Better name: **shortest-next-CPU-burst**
 - **SJF** is **nonpreemptive**!
-![Pasted image 20250120213426.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/W7%20-%20Scheduling/images/Pasted%20image%2020250120213426.png)
+![Pasted image 20250120213426.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/images/Pasted%20image%2020250120213426.png)
 #### Predicting the Lengths of Future CPU Bursts
 >[!tip] Make an assumption
 >Next CPU burst likely similar to the past bursts
@@ -31,7 +31,7 @@ Note that **FCFS is nonpreemptive** (**Not** able to be interrupted)
 - $0\leq\alpha\leq1$
 - $\mathcal{T}_{n+1}=\alpha t_{n}+(1-\alpha)\mathcal{T}_{n}$
 - We can tune this model through $\alpha$ (usually set to $0.5$)
-![Pasted image 20250120213841.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/W7%20-%20Scheduling/images/Pasted%20image%2020250120213841.png)
+![Pasted image 20250120213841.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/images/Pasted%20image%2020250120213841.png)
 >[!abstract] Exponential average of past CPU bursts
 >We can model $\mathcal{T}$ as a recurrence relation, as each term is based on the previous terms (with each successive term having a lower weighting, with the initial guess having the lowest)
 
@@ -39,7 +39,7 @@ Note that **FCFS is nonpreemptive** (**Not** able to be interrupted)
 If we allow SJF to be preemptive, it can interrupt a currently running process if it would run longer than some new process
 
 Consider:
-![Pasted image 20250120215711.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/W7%20-%20Scheduling/images/Pasted%20image%2020250120215711.png)
+![Pasted image 20250120215711.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/images/Pasted%20image%2020250120215711.png)
 ### Priority Scheduling
 >[!tip] Priority Scheduling
 >Shortest-job-first is a specific case of general scheduler that decides by priorities
@@ -68,7 +68,7 @@ Consider:
 - Each process must wait no longer than $(n-1)\times q$ time units until its next turn to run
 
 Take $q=4$
-![Pasted image 20250120222026.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/W7%20-%20Scheduling/images/Pasted%20image%2020250120222026.png)
+![Pasted image 20250120222026.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/images/Pasted%20image%2020250120222026.png)
 - Small quantum—too many interrupts will reduce performance
 - Big quantum—scheduler similar to FCFS
 	- Most processes finish before their quantum is up

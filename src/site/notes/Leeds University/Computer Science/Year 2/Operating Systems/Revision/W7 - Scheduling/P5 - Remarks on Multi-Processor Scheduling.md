@@ -14,7 +14,7 @@ Another is **Symmetric multiprocessing (SMP)**—each processor handles its own 
 There are two approaches to SMP
 1. Common ready queue—each processor takes processes/threads from that queue (potential clashes)
 2. Each processor has its own queue
-![Pasted image 20250120230927.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/W7%20-%20Scheduling/images/Pasted%20image%2020250120230927.png)
+![Pasted image 20250120230927.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/images/Pasted%20image%2020250120230927.png)
 ### Multicore Processors
 A relatively recent trend is trend is to place multiple cores on a chip (**multicore**)
 - Speed and energy efficiency 
@@ -22,7 +22,7 @@ A relatively recent trend is trend is to place multiple cores on a chip (**multi
 - **Multithreading**—hardware assisted multiple threads per core
 	- When one thread is in a memory stall, work on another
 	- The OS treats different hardware threads as separate CPUs
-![Pasted image 20250120231222.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/W7%20-%20Scheduling/images/Pasted%20image%2020250120231222.png)
+![Pasted image 20250120231222.png](/img/user/Leeds%20University/Computer%20Science/Year%202/Operating%20Systems/Revision/images/Pasted%20image%2020250120231222.png)
 ### Load Balancing
 With SMP we need to utilise all CPUs efficiently
 - Load balancing attempts to even the distribution of tasks
